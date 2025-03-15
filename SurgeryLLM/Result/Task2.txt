@@ -1,0 +1,321 @@
+
+
+Debug: Keywords
+
+1. No information provided.
+
+2. Coronary angiography results missing.
+
+
+Debug: Prompt
+
+
+1. Record: 
+Patient: John Smith
+Age: 58, Male
+Medical History: Diabetes; multivessel coronary artery disease with left anterior descending (LAD) involvement
+Vital Signs: BP 140/85 mmHg, HR 80 bpm
+Laboratory Findings: Hemoglobin 9.0 g/dL
+Preoperative Workup: Basic clinical assessment, coronary angiography
+
+2. Reference: Otto et al 2020 ACC/AHA Guideline for the Management of Valvular Heart Disease
+February 2, 2021 Circulation. 2021;143:e72–e227. DOI: 10.1161/CIR.0000000000000923
+e220
+CLINICAL STATEMENTS  
+AND GUIDELINES
+ 3. Dangas G, Khan S, Curry BH, et al. Angina pectoris in severe aortic steno-
+sis. Cardiology. 1999;92:1–3.
+ 4. Basta LL, Raines D, Najjar S, et al. Clinical, haemodynamic, and coronary 
+angiographic correlates of angina pectoris in patients with severe aortic 
+valve disease. Br Heart J. 1975;37:150–7.
+ 5. Thalji NM, Suri RM, Daly RC, et al. Assessment of coronary artery disease risk in 
+5463 patients undergoing cardiac surgery: when is preoperative coronary an-
+giography necessary? J Thorac Cardiovasc Surg. 2013;146:1055–63, 64.e1.
+ 6. Kannel WB, McGee D, Gordon T. A general cardiovascular risk profile: the 
+Framingham Study. Am J Cardiol. 1976;38:46–51.
+ 7. Diamond GA, Forrester JS. Analysis of probability as an aid in the clinical 
+diagnosis of coronary-artery disease. N Engl J Med. 1979;300:1350–8.
+ 8. Heidenreich PA, Kapoor JR. Radiation induced heart disease: systemic dis-
+orders in heart disease. Heart. 2009;95:252–8.
+ 9. Gahl K, Sutton R, Pearson M, et al. Mitral regurgitation in coronary heart 
+disease. Br Heart J. 1977;39:13–8.
+ 10. Enriquez-Sarano M, Klodas E, Garratt KN, et al. Secular trends in coronary 
+atherosclerosis—analysis in patients with valvular regurgitation. N Engl J 
+Med. 1996;335:316–22.
+ 11. Breisblatt WM, Cerqueira M, Francis CK, et al. Left ventricular function in 
+ischemic mitral regurgitation–a precatheterization assessment. Am Heart 
+J. 1988;115:77–82.
+ 12. Mark DB, Berman DS, Budoff MJ, et al. ACCF/ACR/AHA/NASCI/SAIP/
+SCAI/SCCT 2010 expert consensus document on coronary computed to-
+mographic angiography: a report of the American College of Cardiology 
+Foundation Task Force on Expert Consensus Documents. J Am Coll Car -
+diol. 2010;55:2663–99.
+ 13. Opolski MP , Kim WK, Liebetrau C, et al. Diagnostic accuracy of computed
+
+length.
+4. Findings suggestive of acute aortic syndrome (eg, communicating dis-
+section, intramural hematoma, penetrating atherosclerotic ulcer, focal 
+intimal tear), including proximal/distal extension (Figure 7), suspected 
+entry tear site (if visible), and complications (eg, active contrast extrava-
+sation, rupture, contained rupture, rupture including periaortic hemor-
+rhage, pericardial and pleural ﬂuid, mediastinal stranding).
+5. Extension of aortic disease process (acute or chronic) into branch 
+vessels, ﬁndings suggestive of end-organ injury, and suspected 
+malperfusion.
+6. Direct comparison with previous examinations should be detailed to 
+identify pertinent changes.
+7. Presence and extent of repair (eg, interposition graft, endovascular 
+stent graft), as well as any evidence of complication.
+8. Impression regarding disease classiﬁcation (eg, acute aortic syndrome, 
+aneurysm/pseudoaneurysm, luminal stenosis, atherosclerotic aortic 
+disease).
+9. Relevant details regarding method of image acquisition (eg, use of 
+electrocardiographic-gating and phase of acquisition) and measure-
+ment (eg, axial versus double oblique, inner-edge versus outer-edge) 
+should be included.
+CT indicates computed tomography; and MRI, magnetic resonance imaging.
+Table 5. Diagnostic Performance of Aortic Imaging Modalities
+ParameterC TM RI TTET EE US
+Availability +++ ++ +++ ++ +++
+Portability --+++ +++ +++
+Speed of acquisition +++ ++ ++ ++ +
+Spatial resolution +++ ++ ++ +++ ++
+Temporal resolution ++ + +++ +++ +++
+Three-dimensional data set +++ ++ +++
+Arch branch vessel evaluation +++ +++ ++ +N A
+Evaluation of valve and ventricular function ++ + +++ +++ NA
+CT indicates computed tomography; MRI, magnetic resonance imaging; NA, not applicable; TEE, transesophageal echocar-
+diography; TTE, transthoracic echocardiography; US, abdominal aortic ultrasound; +++ excellent results; ++ good results; + 
+fair results; and -, not available.
+
+Angiography and Interventions, Society of Interventional Radiology, Soci-
+ety of Thoracic Surgeons, and Society for Vascular Medicine. Circulation. 
+2010;121:e266–e369.
+Downloaded from http://ahajournals.org by on March 14, 2025
+
+Lawton et al 2021 ACC/AHA/SCAI Coronary Revascularization Guideline
+Circulation. 2022;145:e18–e114. DOI: 10.1161/CIR.0000000000001038 January 18, 2022 e91
+CLINICAL STATEMENTS 
+AND GUIDELINES
+ 14. Makikallio T, Holm NR, Lindsay M, et al. Percutaneous coronary angioplasty 
+versus coronary artery bypass grafting in treatment of unprotected left main 
+stenosis (NOBLE): a prospective, randomised, open-label, non-inferiority 
+trial. Lancet. 2016;388:2743–2752.
+ 15. Armstrong EJ, Rutledge JC, Rogers JH. Coronary artery revascularization in 
+patients with diabetes mellitus. Circulation. 2013;128:1675–1685.
+ 16. Thuijs D, Kappetein AP, Serruys PW, et al. Percutaneous coronary interven-
+tion versus coronary artery bypass grafting in patients with three-vessel or 
+left main coronary artery disease: 10-year follow-up of the multicentre ran-
+domised controlled SYNTAX trial. Lancet. 2019;394:1325–1334.
+ 17 . Head SJ, Milojevic M, Daemen J, et al. Stroke rates following surgical versus per-
+cutaneous coronary revascularization. J Am Coll Cardiol. 2018;72:386–398.
+8.3. Patients With Previous CABG
+ 1. Yap C-H, Sposato L, Akowuah E, et al. Contemporary results show repeat 
+coronary artery bypass grafting remains a risk factor for operative mortality. 
+Ann Thorac Surg. 2009;87:1386–1391.
+ 2. Morrison DA, Sethi G, Sacks J, et al. Percutaneous coronary intervention 
+versus repeat bypass surgery for patients with medically refractory myo-
+cardial ischemia: AWESOME randomized trial and registry experience with 
+post-CABG patients. J Am Coll Cardiol. 2002;40:1951–1954.
+ 3. Brener SJ, Lytle BW, Casserly IP, et al. Predictors of revascularization meth-
+od and long-term outcome of percutaneous coronary intervention or repeat 
+coronary bypass surgery in patients with multivessel coronary disease and 
+previous coronary bypass surgery. Eur Heart J. 2006;27:413–418.
+ 4. Sabik J F, Raza S, Blackstone EH, et al. Value of internal thoracic artery
+
+management of patients with non-ST-elevation acute coronary syndromes: 
+a report of the American College of Cardiology/American Heart Association 
+Task Force on Practice Guidelines. Circulation. 2014;130:e344–e426.
+9.2. Revascularization in Older Patients
+ 1. Tinetti ME, Bogardus ST Jr, Agostini JV. Potential pitfalls of disease-
+specific guidelines for patients with multiple conditions. N Engl J Med. 
+2004;351:2870–2874.
+ 2. Yourman LC, Lee  SJ , Schonberg MA, et al. Prognostic indices for older 
+adults: a systematic review. JAMA. 2012;307:182–192.
+ 3. Varenne O, Cook S, Sideris G, et al. Drug-eluting stents in elderly patients 
+with coronary artery disease (SENIOR): a randomised single-blind trial. Lan-
+cet. 2018;391:41–50.
+ 4. Roberts WC, Shirani J. Comparison of cardiac findings at necropsy in octo-
+genarians, nonagenarians, and centenarians. Am J Cardiol. 1998;82:627–
+631.
+ 5. Seki A, Fishbein MC. Age-related cardiovascular changes and diseases. 
+4th ed. In: Buja LM, Butany J, eds. Cardiovascular Pathology. Elsevier, Inc; 
+2016:57–83.
+ 6. Guagliumi G, Stone GW, Cox DA, et al. Outcome in elderly patients undergo-
+ing primary coronary intervention for acute myocardial infarction: results from 
+the Controlled Abciximab and Device Investigation to Lower Late Angioplas-
+ty Complications (CADILLAC) trial. Circulation. 2004;110:1598–1604.
+ 7.  Li L, Geraghty OC, Mehta Z, et al. Age-specific risks, severity, time course, 
+and outcome of bleeding on long-term antiplatelet treatment after vascular 
+events: a population-based cohort study. Lancet. 2017;390:490–499.
+ 8. Urban P, Meredith IT, Abizaid A, et al. Polymer-free drug-coated coronary 
+stents in patients at high bleeding risk. N Engl J Med. 2015;373:2038–
+2047 .
+ 9. Lee PY, Alexander KP, Hammill BG, et al. Representation of elderly persons 
+and women in published randomized trials of acute coronary syndromes. 
+JAMA. 2001;286:708–713.
+Downloaded from http://ahajournals.org by on March 13, 2025
+
+evaluate for contraindications and interactions. Recom-
+mendations are limited to drugs, devices, and treatments 
+approved for clinical use in the United States.
+Patrick T. O’Gara, MD, MACC, FAHA
+Chair, ACC/AHA Joint Committee on  
+Clinical Practice Guidelines
+1. INTRODUCTION
+1.1. Methodology and Evidence Review
+The recommendations listed in this guideline are, whenev-
+er possible, evidence based. An initial extensive evidence 
+review, which included literature derived from research in-
+volving human subjects, published in English, and indexed 
+in the US National Library of Medicine and the National 
+Center for Biotechnology information (through PubMed), 
+EMBASE, the Cochrane Collaboration, CINHL Complete, 
+and other selected databases relevant to this guideline, 
+was conducted from May 2019 to September 2019. Key 
+search words included but were not limited to the follow-
+ing: percutaneous coronary intervention, angioplasty, coro-
+nary artery bypass graft (CABG) surgery, myocardial infarc-
+tion, cardiac surgery, stent(s), angiogram, angiography, 
+percutaneous transluminal coronary angioplasty, coronary 
+atherosclerosis, saphenous vein graft, internal mammary ar-
+tery (IMA) graft, internal thoracic artery graft, arterial graft, 
+post-bypass, non-ST elevated myocardial infarction, vein 
+graft lesions, myocardial revascularization, multivessel PCI, 
+and left ventricular dysfunction. Additional relevant studies, 
+published through May 2021 during the guideline writing 
+process, were also considered by the writing committee 
+and added to the evidence tables when appropriate. The 
+final evidence tables are included in the Online Data Sup-
+plement and summarize the evidence used by the writing 
+committee to formulate recommendations. References 
+selected and published in the present document are rep-
+resentative and not all-inclusive.
+Downloaded from http://ahajournals.org by on March 13, 2025
+
+1616.
+ 40. Petrie MC, Jhund PS, She L, et al. Ten-year outcomes after coronary ar-
+tery bypass grafting according to age in patients with heart failure and left 
+ventricular systolic dysfunction: an analysis of the extended follow-up of 
+the STICH trial (Surgical Treatment for Ischemic Heart Failure). Circulation. 
+2016;134:1314–1324.
+ 41. Bonow RO, Maurer G, Lee KL, et al. Myocardial viability and survival in isch-
+emic left ventricular dysfunction. N Engl J Med. 2011;364:1617–1625.
+ 42. Veterans Administration Coronary Artery Bypass Surgery Cooperative 
+Study Group. Eleven-year survival in the Veterans Administration ran -
+domized trial of coronary bypass surgery for stable angina. N Engl J Med. 
+1984;311:1333–1339.
+ 43. Murphy ML, Hultgren HN, Detre K, et al. Treatment of chronic stable angina. 
+A preliminary report of survival data of the randomized Veterans Administra-
+tion cooperative study. N Engl J Med. 1977;297:621–627 .
+ 44. Varnauskas E. Twelve-year follow-up of survival in the randomized European 
+Coronary Surgery Study. N Engl J Med. 1988;319:332–337 .
+ 45. Mathur VS, Guinn GA. Prospective randomized study of the surgical therapy 
+of stable angina. Cardiovasc Clin. 1977;8:131–144.
+ 46. Chaitman BR, Fisher LD , Bourassa MG, et al. Effect of coronary bypass 
+surgery on survival patterns in subsets of patients with left main coronary 
+artery disease: report of the Collaborative Study in Coronary Artery Surgery 
+(CASS). Am J Cardiol. 1981;48:765–777 .
+ 47. Lee PH, Ahn J-M, Chang M, et al. Left main coronary artery disease: secular 
+trends in patient characteristics, treatments, and outcomes. J Am Coll Car-
+diol. 2016;68:1233–1246.
+ 48. Dzavik V, Ghali WA, Norris C, et al. Long-term survival in 11 661 patients 
+with multivessel coronary artery disease in the era of stenting: a report from 
+the Alberta Provincial Project for Outcome Assessment in Coronary Heart 
+Disease (APPROACH) Investigators. Am Heart J. 2001;142:119–126.
+
+being considered for coronary revascularization, with the intent to improve quality of care and align with patients’ interests.
+Key Words: AHA Scientific Statements ◼ percutaneous coronary intervention ◼ angioplasty ◼ coronary artery bypass graft surgery  
+◼ myocardial infarction ◼ cardiac surgery, stent(s) ◼ angiogram ◼ angiography ◼ percutaneous transluminal coronary angioplasty  
+◼ coronary atherosclerosis ◼ saphenous vein graft ◼ internal mammary artery graft ◼ internal thoracic artery graft ◼ arterial graft  
+◼ post-bypass ◼ non–ST-segment–elevated myocardial infarction ◼ vein graft lesions ◼ myocardial revascularization 
+ ◼ multivessel PCI ◼ left ventricular dysfunction
+Clinical Statements and Guidelines
+Downloaded from http://ahajournals.org by on March 13, 2025
+
+Lawton et al 2021 ACC/AHA/SCAI Coronary Revascularization Guideline
+Circulation. 2022;145:e18–e114. DOI: 10.1161/CIR.0000000000001038 January 18, 2022 e93
+CLINICAL STATEMENTS 
+AND GUIDELINES
+ 34. Keeley EC, Boura JA, Grines CL. Primary angioplasty versus intravenous 
+thrombolytic therapy for acute myocardial infarction: a quantitative review of 
+23 randomised trials. Lancet. 2003;361:13–20.
+ 35. Santopinto JJ, Fox KA, Goldberg RJ, et al. Creatinine clearance and ad-
+verse hospital outcomes in patients with acute coronary syndromes: find-
+ings from the global registry of acute coronary events (GRACE). Heart. 
+2003;89:1003–1008.
+ 36. Januzzi JL, Cannon CP, DiBattiste PM, et al. Effects of renal insufficiency on 
+early invasive management in patients with acute coronary syndromes (The 
+TACTICS-TIMI 18 Trial). Am J Cardiol. 2002;90:1246–1249.
+ 37 . Gibson CM, Dumaine RL, Gelfand EV, et al. Association of glomerular fil-
+tration rate on presentation with subsequent mortality in non-ST-segment 
+elevation acute coronary syndrome; observations in 13 307 patients in five 
+TIMI trials. Eur Heart J. 2004;25:1998–2005.
+ 38. ACT Investigators. Acetylcysteine for prevention of renal outcomes in pa-
+tients undergoing coronary and peripheral vascular angiography: main re-
+sults from the randomized Acetylcysteine for Contrast-induced nephropathy 
+Trial (ACT). Circulation. 2011;124:1250–1259.
+ 39. Thiele H, Hildebrand L, Schirdewahn C, et al. Impact of high-dose N-acet-
+ylcysteine versus placebo on contrast-induced nephropathy and myocardial 
+reperfusion injury in unselected patients with ST-segment elevation myocar-
+dial infarction undergoing primary percutaneous coronary intervention. The 
+LIPSIA-N-ACC (Prospective, Single-Blind, Placebo-Controlled, Random-
+ized Leipzig Immediate PercutaneouS Coronary Intervention Acute Myocar-
+dial Infarction N-ACC) Trial. J Am Coll Cardiol. 2010;55:2201–2209.
+ 40. Gonzales DA, Norsworthy KJ, Kern SJ, et al. A meta-analysis of N-ace-
+
+of age. Interact Cardiovasc Thorac Surg. 2014;18:580–585.
+ 11. Afilalo J, Eisenberg MJ, Morin JF, et al. Gait speed as an incremental predic-
+tor of mortality and major morbidity in elderly patients undergoing cardiac 
+surgery. J Am Coll Cardiol. 2010;56:1668–1676.
+ 12. Afilalo J, Mottillo S, Eisenberg MJ, et al. Addition of frailty and disability to 
+cardiac surgery risk scores identifies elderly patients at high risk of mortality 
+or major morbidity. Circ Cardiovasc Qual Outcomes. 2012;5:222–228.
+ 13. Lytwyn J, Stammers AN, Kehler DS, et al. The impact of frailty on functional 
+survival in patients 1 year after cardiac surgery. J Thorac Cardiovasc Surg. 
+2017;154:1990–1999.
+ 14. Sepehri A, Beggs T, Hassan A, et al. The impact of frailty on outcomes 
+after cardiac surgery: a systematic review. J Thorac Cardiovasc Surg. 
+2014;148:3110–3117 .
+ 15. Ringaitienė D, Gineitytė D, Vicka V, et al. Impact of malnutrition on postop-
+erative delirium development after on pump coronary artery bypass grafting. 
+J Cardiothorac Surg. 2015;10:74.
+ 16. Lomivorotov VV, Efremov SM, Boboshko VA, et al. Prognostic value of nu-
+tritional screening tools for patients scheduled for cardiac surgery. Interact 
+Cardiovasc Thorac Surg. 2013;16:612–618.
+ 17 . Bayir H, Yildiz I. Malnutrition and adverse effects in cardiac surgery. Thorac 
+Cardiovasc Surg. 2015;63:349–350.
+4.1. Angiography to Define Anatomy and Assess Lesion 
+Severity
+ 1. Adjedj J, Xaplanteris P, Toth G, et al. Visual and quantitative assessment of 
+coronary stenoses at angiography versus fractional flow reserve: the impact 
+of risk factors. Circ Cardiovasc Imaging. 2017;10:e006243.
+ 2. Beauman GJ, Vogel RA. Accuracy of individual and panel visual interpreta-
+tions of coronary arteriograms: implications for clinical decisions. J Am Coll 
+Cardiol. 1990;16:108–113.
+ 3. Fleming RM, Kirkeeide RL, Smalling RW, et al. Patterns in visual interpreta-
+tion of coronary arteriograms as detected by quantitative coronary arteriog-
+3. Task: Identify unavailable preoperative tests.
+4. Answer:
+
+
+
+Debug: Response
+
+Based on the patient record provided, the following preoperative tests are mentioned:
+
+1. Basic clinical assessment
+2. Coronary angiography
+
+However, other common preoperative tests such as:
+
+1. Electrocardiogram (ECG)
+2. Echocardiogram
+3. Chest X-ray
+4. Complete Blood Count (CBC)
+5. Blood chemistry tests (e.g., creatinine, electrolytes)
+6. Coagulation studies (e.g., PT, INR)
+
+are not mentioned in the record. 
+
+Therefore, the answer is: The record does not specify the results of the above-mentioned tests, so it is unclear if they were performed or not.

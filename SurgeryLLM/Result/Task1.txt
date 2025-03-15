@@ -1,0 +1,329 @@
+
+
+Debug: Keywords
+
+- Blood Pressure: 140/85 mmHg
+- Hemoglobin: 9.0 g/dL
+
+
+Debug: Prompt
+
+
+1. Record: 
+Patient: John Smith
+Age: 58, Male
+Medical History: Diabetes; multivessel coronary artery disease with left anterior descending (LAD) involvement
+Vital Signs: BP 140/85 mmHg, HR 80 bpm
+Laboratory Findings: Hemoglobin 9.0 g/dL
+Preoperative Workup: Basic clinical assessment, coronary angiography
+
+2. Reference: 3 | Laboratory Values 
+Laboratory Values  (continued)  
+ Reference Range  SI Reference Intervals  
+   
+Immunoglobulins:    
+IgA 76–390 mg/dL 0.76–3.90 g/L 
+IgE 0–380 IU/mL 0–380 kIU/L 
+IgG 650–1500 mg/dL 6.5–15.0 g/L 
+IgM 50–300 mg/dL 0.5–3.0 g/L 
+   
+GASES, ARTERIAL BLOOD (ROOM AIR)    
+Po2 75–105 mm Hg 10.0–14.0 kPa 
+Pco2 33–45 mm Hg 4.4–5.9 kPa 
+pH 7.35–7.45 [H+] 36–44 nmol/L 
+   
+CEREBROSPINAL FLUID    
+Cell count 0–5/mm3 0–5 × 106/L 
+Chloride 118–132 mEq/L 118–132 mmol/L 
+Gamma globulin 3%–12% total proteins 0.03–0.12 
+Glucose 40–70 mg/dL 2.2–3.9 mmol/L 
+Pressure 70–180 mm H2O 70–180 mm H2O 
+Proteins, total <40 mg/dL <0.40 g/L 
+   
+HEMATOLOGIC    
+Complete Blood Count:    
+Hematocrit Male: 41%–53% 0.41–0.53 
+Female: 36%–46% 0.36–0.46 
+Hemoglobin, blood Male: 13.5–17.5 g/dL 135–175 g/L 
+Female: 12.0–16.0 g/dL 120–160 g/L 
+Mean corpuscular hemoglobin (MCH) 25–35 pg/cell 0.39–0.54 fmol/cell 
+Mean corpuscular hemoglobin conc.  
+(MCHC) 31%–36% Hb/cell 4.8–5.6 mmol Hb/L
+
+<5.5 cm and <4.5 cm, respectively. In their 2017 
+guidelines on AAA, 16 the Society for Vascular 
+Recommendations for the Threshold for AAA Repair (Continued)
+COR LOE Recommendations
+Downloaded from http://ahajournals.org by on March 14, 2025
+
+12. Davidson KW, Alcántara C, Miller GE. Selected psychological comorbidities 
+in coronary heart disease: challenges and grand opportunities. Am Psychol. 
+2018;73:1019–1030.
+ 13. Thombs BD, Bass EB, Ford DE, et al. Prevalence of depression in survivors 
+of acute myocardial infarction. J Gen Intern Med. 2006;21:30–38.
+ 14. Stenman M, Holzmann MJ, Sartipy U. Association between preoperative de-
+pression and long-term survival following coronary artery bypass surgery - a 
+systematic review and meta-analysis. Int J Cardiol. 2016;222:462–466.
+ 15. Okunrintemi V, Valero-Elizondo J, Michos ED, et al. Association of depres-
+sion risk with patient experience, healthcare expenditure, and health re-
+source utilization among adults with atherosclerotic cardiovascular disease. 
+J Gen Intern Med. 2019;34:2427–2434.
+ 16. Bangalore S, Shah R, Pappadopulos E, et al. Cardiovascular hazards of in-
+sufficient treatment of depression among patients with known cardiovascu-
+lar disease: a propensity score adjusted analysis. Eur Heart J Qual Care Clin 
+Outcomes. 2018;4:258–266.
+ 17 . Cohen BE, Edmondson D, Kronish IM. State of the art review: depression, 
+stress, anxiety, and cardiovascular disease. Am J Hypertens. 2015;28:1295–
+1302.
+ 18. Leifheit-Limson EC, Kasl SV, Lin H, et al. Adherence to risk factor manage-
+ment instructions after acute myocardial infarction: the role of emotional 
+support and depressive symptoms. Ann Behav Med. 2012;43:198–207 .
+ 19. Lichtman JH, Froelicher ES, Blumenthal JA, et al. Depression as a risk 
+factor for poor prognosis among patients with acute coronary syndrome: 
+systematic review and recommendations: a scientific statement from the 
+American Heart Association. Circulation. 2014;129:1350–1369.
+ 20. Gale CR, Batty GD, Osborn DP, et al. Mental disorders across the adult life 
+course and future coronary heart disease: evidence for general susceptibil-
+ity. Circulation. 2014;129:186–193.
+
+Hg, the use of antihypertensive medication is 
+recommended to reduce risk of cardiovascular 
+events.1-3
+Synopsis
+Reducing cardiovascular events such as myocardial 
+infarction and stroke, as well as preventing aneurysm 
+growth and rupture, are the main goals in antihyper-
+tensive therapy in AAA. Uncontrolled hypertension is a 
+known risk factor for aortic rupture and dissection; there-
+fore, achieving an SBP goal of <130 mm Hg, and a DBP 
+goal of <80 mm Hg with the use of antihypertensive 
+therapy in those with hypertension and AAA can reduce 
+adverse clinical outcomes, and some patients may ben-
+efit from more intensive lowering with an SBP goal of 
+<120 mm Hg.4 The most robust evidence of antihyper-
+tensive therapy in AAA is for beta blockers and agents 
+that alter the renin angiotensin system; however, in pro-
+spective clinical trials in humans, no specific agent has 
+been proven to inhibit AAA growth.
+Recommendation-Specific Supportive Text
+1. Updated hypertension guidelines from the ACC 
+and AHA suggest all patients with clinical cardio-
+vascular disease have a target SBP of <130 mm 
+Hg and/or DBP <80 mm Hg. 1 Evidence supports 
+aggressive BP lowering to reduce vascular-related 
+adverse events and all-cause mortality. 2,3 A more 
+Downloaded from http://ahajournals.org by on March 14, 2025
+
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e393
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+via surveillance imaging and detection of aortic-related 
+events and death. Intervention at diameters of <6.0 cm 
+would reduce aortic-related events and death. There 
+are also conditions in which intervention may be justi-
+fied at smaller diameters (eg, rapid growth, symptoms, 
+penetrating ulcers, mycotic aneurysms, connective tissue 
+disorders). Concerns for operative death in the setting 
+of comorbid conditions is certainly justified. However, in 
+centers with a Multidisciplinary Aortic Team, excellent 
+outcomes can be obtained despite the presence of such 
+conditions, and fatal aortic events may thus be avoided.
+Recommendation-Specific Supportive Text
+1. Aortic event rates begin to rise significantly, and 
+5-year survival begins to fall when TAAA diame-
+ters are >6.0 cm. At this diameter, the risk of an 
+adverse aortic event ranges from 9.3% 1 to 19%, 3 
+which is 2 to 4 times the median operative mortal-
+ity rate for open TAAA repair. In patients with mul-
+tiple comorbidities known to substantially increase 
+the risk of open TAAA repair (eg, chronic obstruc-
+tive pulmonary disease, advanced age, preopera-
+tive renal dysfunction, preoperative left ventricular 
+dysfunction), it may be appropriate to continue to 
+observe patients with TAAA diameters >6.0 cm or 
+to refer them for endovascular repair.
+2. In centers with a Multidisciplinary Aortic Team, 
+despite the presence of comorbid conditions, 
+excellent outcomes can be achieved with meticu-
+lous perioperative preparation and care as well as 
+technically sound surgery. On multivariable analy-
+sis, patients undergoing TAAA repair with a left 
+ventricular ejection fraction <40% were not more 
+prone to operative death (OR, 0.28; 95% CI, 0.02–
+4.14; P=0.58) or long-term death (OR, 0.55; 95% 
+CI, 0.17–1.80; P=0.23) than those with higher
+
+pressure <140 mm Hg)
+Increased LV relative 
+wall thickness
+Small LV chamber with 
+low stroke volume
+Restrictive diastolic 
+filling
+LVEF ≥50%
+HF
+Angina
+Syncope or presyncope
+AR indicates aortic regurgitation; AS, aortic stenosis; AVA, aortic valve area circulation; AVAi, AVA indexed to body surface area; BAV, bicuspid aortic valve; ΔP , 
+pressure gradient between the LV and aorta HF, heart failure; LV, left ventricular; LVEF, left ventricular ejection fraction; and Vmax, maximum velocity.
+Downloaded from http://ahajournals.org by on March 14, 2025
+
+Circulation. 2022;146:e334–e482. DOI: 10.1161/CIR.0000000000001106 December 13, 2022 e429
+Isselbacher et al 2022 ACC/AHA Aortic Disease Guideline
+CLINICAL STATEMENTS 
+AND GUIDELINES
+with duration of glucocorticoid treatment. 2 FDG-
+PET has a reported specificity for GCA-related aor-
+titis as high as 100% and CTA about 85%.5 In CT, 
+wall thickening from inflammation may be mistaken 
+for atherosclerosis; however, given CT’s usefulness 
+in assessing occlusive lesions, intimal injury, ulcer-
+ative plaques, and aneurysmal disease, it is often 
+combined with FDG-PET in L VV.1 Evidence is limited 
+for the role of MRI in GCA, but MRI is widely used 
+in Takayasu arteritis given the patients’ younger age 
+at diagnosis and need for lifelong surveillance imag-
+ing.6 If proximal aortic involvement is confirmed by 
+CT or MRI, then echocardiography may be helpful to 
+assess aortic valve function.
+2. Active vasculitis is diagnosed by clinical symp-
+toms of GCA or Takayasu arteritis with evidence 
+of inflammation by serum biomarkers, imaging, or 
+both. High-dose glucocorticoid therapy (prednisone 
+at 40–60 mg/d or equivalent) is standard induction 
+therapy for GCA and Takayasu arteritis and leads 
+to remission and control of active disease in most 
+patients7-12 (Figures 25 and 26). Evidence support-
+ing the efficacy of induction therapy with high-dose 
+intravenous methylprednisolone in GCA comes 
+only from small clinical trials, and thus the 2018 
+recommendations from the European Alliance of 
+Associations for Rheumatology (EULAR; formerly 
+the European League Against Rheumatism) limits 
+its use to patients with severe GCA at risk for blind-
+ness in the acute setting, and administration should 
+not delay oral glucocorticoid treatment. 7-9 Once 
+the acute phase is controlled, glucocorticoid taper 
+should be initiated to reach a target prednisone 
+dose of 15 to 20 mg/d within 2 to 3 months, and 
+≤5 mg/d for GCA and ≤10 mg/d for Takayasu arte-
+
+view and meta-analysis. J Epidemiol Community Health. 2017;71:550–557 .
+ 19. Malambo P, Kengne AP, De Villiers A, et al. Built environment, selected risk 
+factors and major cardiovascular disease outcomes: a systematic review. 
+PLoS One. 2016;11: e0166846.
+ 20. Carnethon MR, Pu  J, Howard G, et al. Cardiovascular health in African 
+Americans: a scientific statement from the American Heart Association. 
+Circulation. 2017;136:e393–e423.
+ 21. Volgman AS, Palaniappan LS, Aggarwal NT, et al. Atherosclerotic cardio-
+vascular disease in South Asians in the United States: epidemiology, risk 
+factors, and treatments: a scientific statement from the American Heart As-
+sociation. Circulation. 2018;138:e1–e34.
+ 22. Rodriguez CJ, Allison M, Daviglus ML, et al. Status of cardiovascular disease 
+and stroke in Hispanics/Latinos in the United States: a science advisory 
+from the American Heart Association. Circulation. 2014;130:593–625.
+ 23. Beohar N, Davidson CJ, Massaro EM, et al. The impact of race/ethnicity 
+on baseline characteristics and the burden of coronary atherosclerosis in 
+the Bypass Angioplasty Revascularization Investigation 2 Diabetes trial. Am 
+Heart J. 2011;161:755–763.
+ 24. Mehran R, Chandrasekhar J, Davis S, et al. Impact of race and ethnicity on 
+the clinical and angiographic characteristics, social determinants of health, 
+and 1-year outcomes after everolimus-eluting coronary stent procedures in 
+women. Circ Cardiovasc Interv. 2019;12:e006918.
+ 25. Feinstein M, Ning H, Kang J, et al. Racial differences in risks for first car-
+diovascular events and noncardiovascular death: the Atherosclerosis Risk in 
+Communities study, the Cardiovascular Health Study, and the Multi-Ethnic 
+Study of Atherosclerosis. Circulation. 2012;126:50–59.
+ 26. Pursnani S, Merchant M. South Asian ethnicity as a risk factor for coronary 
+heart disease. Atherosclerosis. 2020;315:126–130.
+ 27 . Sonel AF, Good CB, Mulgund J, et al. Racial variations in treatment and out-
+
+not necessarily meet instructions for use criteria. 
+However, caution should be exercised, because 
+observational studies showed increased risk of 
+perioperative death and long-term complica-
+tions when devices are used off-label in a rupture 
+scenario.18,19
+3. Patients presenting with rAAA often maintain 
+adequate BPs, in part because of the body’s cat-
+echolamine responses. 20 However, once induced 
+with general anesthesia, the loss of this physiologic 
+response—coupled with anesthetic agents that can 
+depress BP—can lead to circulatory collapse. 21-23 
+General anesthesia has also been shown to have 
+deleterious effects on inflammatory and body 
+temperature regulation. 24,25 Subanalysis of the 
+IMPROVE trial showed that patients with rAAA who 
+underwent EVAR with only local anesthesia had 
+lower risk of mortality compared with those who 
+were treated under general anesthesia (adjusted 
+OR, 0.27; 95% CI, 0.1–0.7). 7 Although the trial 
+was not designed and powered for this specific 
+outcome, recent observational studies from large 
+registries have corroborated this finding.8,9
+4. Although there are no RCTs of outcomes specific 
+to permissive hypotension in rAAA, data from the 
+trauma literature evaluating fluid management in 
+hemorrhagic shock show benefit in using a strat-
+egy of permissive hypotension. 11,12 Many authors 
+managing rAAA have similarly described main-
+taining low arterial pressures to decrease rate of 
+bleeding in patients with rAAA. 1,3,10 An SBP that 
+allows a patient to maintain mentation, typically 
+between 60 and 90 mm Hg, is suggested.
+6.5.5.3. Threshold for AAA Repair
+Recommendations for the Threshold for AAA Repair
+Referenced studies that support the recommendations are 
+summarized in the Online Data Supplement.
+COR LOE Recommendations
+1 A
+1. In patients with unruptured AAA, repair is rec-
+ommended in those with a maximal aneurysm 
+diameter of ≥5.5 cm in men or ≥5.0 cm in 
+women.1-6
+
+2 | Laboratory Values 
+Laboratory Values  (continued)  
+ Reference Range  SI Reference Intervals  
+   
+Lipids:   
+Cholesterol   
+Total Normal: <200 mg/dL <5.2 mmol/L 
+ High: >240 mg/dL >6.2 mmol/L 
+HDL 40–60 mg/dL 1.0–1.6 mmol/L 
+LDL <160 mg/dL <4.2 mmol/L 
+Triglycerides Normal: <150 mg/dL <1.70 mmol/L 
+Borderline: 151–199 mg/dL 1.71–2.25 mmol/L 
+   
+Iron Studies:    
+Ferritin Male: 20–250 ng/mL 20–250 μg/L 
+Female: 10–120 ng/mL 10–120 μg/L 
+Iron Male: 65–175 µg/dL 11.6–31.3 μmol/L 
+Female: 50–170 μg/dL 9.0–30.4 μmol/L 
+Total iron-binding capacity 250–400 µg/dL 44.8–71.6 μmol/L 
+Transferrin 200–360 mg/dL 2.0–3.6 g/L 
+   
+Endocrine:    
+Follicle-stimulating hormone 
+Male: 4–25 mIU/mL 4–25 IU/L 
+Female: premenopause 4–30 mIU/mL 4–30 IU/L 
+midcycle peak 10–90 mIU/mL 10–90 IU/L 
+postmenopause 40–250 mIU/mL 40–250 IU/L 
+Luteinizing hormone 
+Male: 6–23 mIU/mL 6–23 IU/L 
+Female: follicular phase 5–30 mIU/mL 5–30 IU/L 
+midcycle 75–150 mIU/mL 75–150 IU/L
+3. Task: Check the record and identify results outside of reference ranges.
+4. Answer:
+
+
+
+Debug: Response
+
+Based on the patient record and the reference ranges provided, the following results are outside of the reference ranges:
+
+1. Hemoglobin: 9.0 g/dL (reference range: 13.5-17.5 g/dL for males)
+2. Blood Pressure: 140/85 mmHg (reference range for systolic blood pressure is not explicitly stated, but according to the text, the target SBP is <130 mmHg)
+
+Note that the other laboratory values are not provided in the patient record, so it is not possible to determine if they are within or outside of the reference ranges.
