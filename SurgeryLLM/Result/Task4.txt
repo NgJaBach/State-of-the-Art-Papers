@@ -2,24 +2,18 @@
 
 Debug: Keywords
 
-**Patient Details:**
-- Name: John Smith
-- Age: 58 years
-- Sex: Male
-
-**Medical History:**
+Patient: John Smith
+Age: 58
+Gender: Male
+Medical History: 
 - Diabetes
-- Multivessel coronary artery disease
-- LAD involvement
+- Multivessel coronary artery disease (LAD involvement)
+- BP 140/85 mmHg
+- HR 80 bpm
+- Hemoglobin 9.0 g/dL 
 
-**Current Status:**
-- Blood Pressure: 140/85
-- Pulse Rate: 80 bpm
-- Hemoglobin: 9.0 g/dL
-
-**Procedures Performed:**
-- Basic clinical assessment
-- Coronary angiography
+Preoperative Work-up: Basic Clinical Assessment, Coronary Angiography
+To Be Documented During Surgery:
 
 
 Debug: Prompt
@@ -33,147 +27,162 @@ Vital Signs: BP 140/85 mmHg, HR 80 bpm
 Laboratory Findings: Hemoglobin 9.0 g/dL
 Preoperative Workup: Basic clinical assessment, coronary angiography
 
-2. Reference: Circulation
-e18 January 18, 2022 Circulation. 2022;145:e18–e114. DOI: 10.1161/CIR.0000000000001038
-Circulation is available at www.ahajournals.org/journal/circ
-*Writing committee members are required to recuse themselves from voting on sections to which their specific relationships with industry may apply; see Appendix 1 
-for detailed information. †ACC/AHA Representative. ‡ACC/AHA Joint Committee on Clinical Practice Guidelines Liaison. §ACC/AHA Task Force on Data Standards 
-Representative. ‖SCAI Representative.
-ACC/AHA Joint Committee on Clinical Practice Guidelines Members, see page e80.
-The American Heart Association requests that this document be cited as follows: Lawton JS, Tamis-Holland JE, Bangalore S, Bates ER, Beckie TM, Bischoff JM, Bittl 
-JA, Cohen MG, DiMaio JM, Don CW, Fremes SE, Gaudino MF, Goldberger ZD, Grant MC, Jaswal JB, Kurlansky PA, Mehran R, Metkus TS Jr, Nnacheta LC, Rao SV, 
-Sabik JF, Sellke FW, Sharma G, Yong CM, Zwischenberger BA. 2021 ACC/AHA/SCAI guideline for coronary artery revascularization: a report of the American College 
-of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2022;145:e18–e114. doi: 10.1161/CIR.0000000000001038
-© 2021 by the American College of Cardiology Foundation and the American Heart Association, Inc. 
-ACC/AHA/SCAI CLINICAL PRACTICE GUIDELINE
-2021 ACC/AHA/SCAI Guideline for Coronary 
-Artery Revascularization: A Report of the 
-American College of Cardiology/American Heart 
-Association Joint Committee on Clinical Practice 
-Guidelines
-Writing Committee Members*
-Jennifer S. Lawton, MD, FAHA, Chair†; Jacqueline E. Tamis-Holland, MD, FAHA, FACC, FSCAI, Vice Chair‡;  
-Sripal Bangalore, MD, MHA, FACC, FAHA, FSCAI†; Eric R. Bates, MD, FACC, FAHA†; Theresa M. Beckie, PhD, FAHA†;  
-James M. Bischoff, MEd†; John A. Bittl, MD, FACC†; Mauricio G. Cohen, MD, FACC, FSCAI§; J. Michael DiMaio, MD†;
+2. Reference: Lawton et al 2021 ACC/AHA/SCAI Coronary Revascularization Guideline
+Circulation. 2022;145:e18–e114. DOI: 10.1161/CIR.0000000000001038 January 18, 2022 e89
+CLINICAL STATEMENTS 
+AND GUIDELINES
+tected left main stenosis: updated 5-year outcomes from the randomised, 
+non-inferiority NOBLE trial. Lancet. 2020;395:191–199.
+ 52. Kuno T, Ueyama H, Rao SV, et al. Percutaneous coronary intervention or 
+coronary artery bypass graft surgery for left main coronary artery disease: a 
+meta-analysis of randomized trials. Am Heart J. 2020;227:9–10.
+ 53. Park D-W, Ahn J-M, Park H, et al. Ten-year outcomes after drug-eluting 
+stents versus coronary artery bypass grafting for left main coronary disease: 
+extended follow-up of the PRECOMBAT trial. Circulation. 2020;141:1437–
+1446.
+ 54. Ahmad Y, Howard J P, Arnold AD, et al. Mortality after drug-eluting stents 
+vs. coronary artery bypass grafting for left main coronary artery disease: a 
+meta-analysis of randomized controlled trials. Eur Heart J. 2020;41:3228–
+3235.
+ 55. Gallo M, Blitzer D, Laforgia PL, et al. Percutaneous coronary intervention 
+versus coronary artery bypass graft for left main coronary artery disease: a 
+meta-analysis. J Thorac Cardiovasc Surg. 2020. S0022-5223(20)30888-
+6.
+ 56. Hillis LD, Smith PK , Anderson JL, et al. 2011 ACCF/AHA guideline for 
+coronary artery bypass graft surgery: a report of the American College of 
+Cardiology Foundation/American Heart Association Task Force on Practice 
+Guidelines. Developed in collaboration with the American Association for 
+Thoracic Surgery, Society of Cardiovascular Anesthesiologists, and Society 
+of Thoracic Surgeons. Circulation. 2011;124:e652–e735.
+ 57. Myers WO, Schaff HV, Gersh BJ, et al. Improved survival of surgically treated 
+patients with triple vessel coronary artery disease and severe angina pec-
+toris: a report from the Coronary Artery Surgery Study (CASS) registry. J 
+Thorac Cardiovasc Surg. 1989;97:487–495.
 
-being considered for coronary revascularization, with the intent to improve quality of care and align with patients’ interests.
-Key Words: AHA Scientific Statements ◼ percutaneous coronary intervention ◼ angioplasty ◼ coronary artery bypass graft surgery  
-◼ myocardial infarction ◼ cardiac surgery, stent(s) ◼ angiogram ◼ angiography ◼ percutaneous transluminal coronary angioplasty  
-◼ coronary atherosclerosis ◼ saphenous vein graft ◼ internal mammary artery graft ◼ internal thoracic artery graft ◼ arterial graft  
-◼ post-bypass ◼ non–ST-segment–elevated myocardial infarction ◼ vein graft lesions ◼ myocardial revascularization 
- ◼ multivessel PCI ◼ left ventricular dysfunction
-Clinical Statements and Guidelines
+bleeding or increased stroke risk in patients under-
+going rescue PCI could be mitigated by using half-
+dose tenecteplase in patients >75 years of age, 31 
+by substituting radial access in place of femoral 
+access,41 or by eliminating the routine use of plate-
+let glycoprotein IIb/IIIa inhibitors. With these tech-
+niques, the reduced complications associated with 
+PCI would provide a more favorable balance of risk 
+Figure 3. Indications for Revascularization in STEMI (Patients Without Fibrinolytics).
+Colors correspond to Table 2.  
+CABG indicates coronary artery bypass graft; PCI, percutaneous coronary intervention; and STEMI, ST-segment–elevation myocardial infarction. 
+This algorithm summarizes the recommendations in this guideline for revascularization of the infarct artery in STEMI. It is not meant to encompass 
+every patient scenario or situation, and clinicians are encouraged to use a Heart Team approach when care decisions are unclear and to see the 
+accompanying supportive text for each recommendation. Additionally, in situations that lack sufficient data to make formal recommendations for 
+care, please see Section 17 , “Unanswered Questions and Future Directions.”
 Downloaded from http://ahajournals.org by on March 13, 2025
 
-1.2. Organization of the Writing 
-Committee
-The writing committee was composed of clinicians, 
-which included cardiologists, interventionalists, sur -
-geons, anesthesiologists, and a patient representative. 
-Members were required to disclose all RWI relevant to 
-the data under consideration.
-1.3. Document Review and Approval
-This document was reviewed by 2 official reviewers each 
-nominated by the ACC and the AHA, as well as content 
-reviewers nominated by the ACC and AHA. Reviewers’ 
-RWI information was distributed to the writing commit-
-tee and is published in this document (Appendix 2).
-1.4. Scope of the Guideline
-The focus of this guideline is the diagnosis and man-
-agement of adult patients with valvular heart disease 
-(VHD). A full revision of the original 1998 VHD guide-
-line was made in 2006, and an update was made in 
-2008.1 Another full revision was made in 2014,2 with an 
-update in 2017.3 There was an additional statement of 
-clarification specifically for surgery for aortic dilation in 
-patients with bicuspid aortic valves (BAV) in 2016.4 The 
-present guideline will replace the 2014 guideline and 
-2017 focused update. Some recommendations from 
-the earlier VHD guidelines have been updated as war -
-ranted by new evidence or a better understanding of 
-Downloaded from http://ahajournals.org by on March 14, 2025
+betes and multivessel coronary artery disease are 
+optimized by the use of a Heart Team approach. 
+Patients with diabetes who have triple-vessel dis-
+ease should undergo surgical revascularization; 
+percutaneous coronary intervention may be con-
+sidered if they are poor candidates for surgery.
+10. Treatment decisions for patients undergoing sur-
+gical revascularization of coronary artery disease 
+should include the calculation of a patient’s sur-
+gical risk with the Society of Thoracic Surgeons 
+score. The usefulness of the SYNTAX score calcu-
+lation in treatment decisions is less clear because 
+of the interobserver variability in its calculation and 
+its absence of clinical variables.
+PREAMBLE
+Since 1980, the American College of Cardiology (ACC) 
+and American Heart Association (AHA) have translated 
+scientific evidence into clinical practice guidelines with 
+recommendations to improve cardiovascular health. 
+These guidelines, which are based on systematic meth-
+ods to evaluate and classify evidence, provide a founda-
+tion for the delivery of quality cardiovascular care. The 
+ACC and AHA sponsor the development and publication 
+of clinical practice guidelines without commercial sup-
+port, and members volunteer their time to the writing and 
+review efforts. Guidelines are official policy of the ACC 
+and AHA. For some guidelines, the ACC and AHA part-
+ner with other organizations.
+Intended Use
+Clinical practice guidelines provide recommendations 
+applicable to patients with or at risk of developing 
+cardiovascular disease (CVD). The focus is on medi-
+cal practice in the United States, but these guidelines 
+are relevant to patients throughout the world. Although 
+guidelines may be used to inform regulatory or payer 
+decisions, the intent is to improve quality of care and 
+align with patients’ interests. Guidelines are intended 
+to define practices meeting the needs of patients in 
+most, but not all, circumstances and should not replace 
+clinical judgment.
 
-Update Panel, Liaisons, and Staff. A clinical practice guideline for treating 
-tobacco use and dependence: 2008 update. A US Public Health Service 
-report. Am J Prev Med. 2008;35:158–176.
- 21. Lazar HL, Salm TV, Engelman R, et al. Prevention and management of ster-
-nal wound infections. J Thorac Cardiovasc Surg. 2016;152:962–972.
- 22. Thomas RJ, Balady G, Banka G, et al. 2018 ACC/AHA clinical performance 
-and quality measures for cardiac rehabilitation: a report of the American 
-College of Cardiology/American Heart Association Task Force on Perfor-
-mance Measures. Circ Cardiovasc Qual Outcomes. 2018;11:e000037 .
- 23. Hayes SN, Kim ESH, Saw J, et al. Spontaneous coronary artery dissection: 
-current state of the science: a scientific statement from the American Heart 
-Association. Circulation. 2018;137:e523–e557 .
-Downloaded from http://ahajournals.org by on March 13, 2025
+Otto et al 2020 ACC/AHA Guideline for the Management of Valvular Heart Disease
+Circulation. 2021;143:e72–e227. DOI: 10.1161/CIR.0000000000000923 February 2, 2021
+ e221
+CLINICAL STATEMENTS  
+AND GUIDELINES
+15. NONCARDIAC SURGERY IN 
+PATIENTS WITH VHD
+15.1. Diagnosis of Patients With VHD 
+Undergoing Noncardiac Surgery
+ 1. Liu JB, Liu Y, Cohen ME, et al. Defining the intrinsic cardiac risks of opera-
+tions to improve preoperative cardiac risk assessments. Anesthesiology. 
+2018;128:283–92.
+ 2. Wijeysundera DN, Pearse RM, Shulman MA, et al. Assessment of function-
+al capacity before major non-cardiac surgery: an international, prospective 
+cohort study. Lancet. 2018;391:2631–40.
+ 3. Dakik HA, Chehab O, Eldirani M, et al. A new index for pre-operative 
+cardiovascular evaluation. J Am Coll Cardiol. 2019;73:3067–78.
+ 4. Nishimura RA, Otto CM, Bonow RO, et al. 2014 AHA/ACC guideline for 
+the management of patients with valvular heart disease: a report of the 
+American College of Cardiology/American Heart Association Task Force 
+on Practice Guidelines. Circulation. 2014;129:e521–643.
+ 5. Douglas PS, Garcia MJ, Haines DE, et al. ACCF/ASE/AHA/ASNC/HFSA/
+HRS/SCAI/SCCM/SCCT/SCMR 2011 appropriate use criteria for echocar -
+diography. A report of the American College of Cardiology Foundation 
+Appropriate Use Criteria Task Force, American Society of Echocardiog-
+raphy, American Heart Association, American Society of Nuclear Cardi-
+ology, Heart Failure Society of America, Heart Rhythm Society, Society 
+for Cardiovascular Angiography and Interventions, Society of Critical 
+Care Medicine, Society of Cardiovascular Computed Tomography, So-
+ciety for Cardiovascular Magnetic Resonance. J Am Soc Echocardiogr. 
+2011;24:229–67.
+15.2. Management of the Symptomatic 
+Patient
+ 1. Fleisher LA, Fleischmann KE, Auerbach AD, et al. 2014 ACC/AHA guide-
+line on perioperative cardiovascular evaluation and management of pa-
+tients undergoing noncardiac surgery: a report of the American College of
 
-vention for patients with coronary and other atherosclerotic vascular dis-
-ease: 2006 update. Circulation. 2006;113:2363–2372.
- 2. Agmon Y, Khandheria BK, Meissner I, et al. Relation of coronary artery dis-
-ease and cerebrovascular disease with atherosclerosis of the thoracic aorta 
-in the general population. Am J Cardiol. 2002;89:262-267 .
- 3. Expert Panel on Detection, Evaluation, and Treatment of High Blood Cho-
-lesterol in Adults. Executive summary of the third report of the National 
-Cholesterol Education Program (NCEP) Expert Panel on Detection, Evalu-
-ation, and Treatment of High Blood Cholesterol in Adults (Adult Treatment 
-Panel III). JAMA. 2001;285:2486-2497 .
-6.4.2.1. BP Management in AAA
- 1. Whelton PK, Carey RM, Aronow WS, et al. 2017 ACC/AHA/AAPA/ABC/
-ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA guideline for the prevention, 
-detection, evaluation, and management of high blood pressure in adults: a re-
-port of the American College of Cardiology/American Heart Association Task 
-Force on Clinical Practice Guidelines. Hypertension. 2018;71:1269–1324.
- 2. Lewington S, Clarke R, Qizilbash N, et al. Age-specific relevance of usual 
-blood pressure to vascular mortality: a meta-analysis of individual data for 
-one million adults in 61 prospective studies. Lancet. 2002;360:1903-1913.
- 3. Ogden LG, He J, Lydick E, et al. Long-term absolute benefit of lowering 
-blood pressure in hypertensive patients according to the JNC VI risk strati-
-fication. Hypertension. 2000;35:539-543.
- 4. Group SR, Wright JT Jr, Williamson JD, et al. A randomized trial of intensive ver-
-sus standard blood-pressure control. N Engl J Med. 2015;373:2103-2116.
- 5. Vaduganathan M, Claggett BL, Juraschek SP, et al. Assessment of long-
-term benefit of intensive blood pressure control on residual life span: sec-
-ondary analysis of the Systolic Blood Pressure Intervention Trial (SPRINT). 
-JAMA Cardiol. 2020;5:576-581.
-6.4.2.2. Treatment of AAA With Statins
-
-Complexity: Calculation of the SYNTAX 
-(Synergy Between PCI With TAXUS and 
-Cardiac Surgery) Score . . . . . . . . . . . . . . . . .e31
-4.3. Use of Coronary Physiology to Guide 
-Revascularization With PCI . . . . . . . . . . . . . .e31
-4.4. Intravascular Ultrasound to Assess  
-Lesion Severity . . . . . . . . . . . . . . . . . . . . . . . . .e32
-5. Revascularization in STEMI . . . . . . . . . . . . . . . . . . . .e33
-5.1. Revascularization of the Infarct  
-Artery in Patients With STEMI . . . . . . . . . . .e33
-5.2. Revascularization of the Non-Infarct  
-Artery in Patients With STEMI . . . . . . . . . . .e35
-6. Revascularization in Non–ST-Segment–Elevation 
-Acute Coronary Syndrome (NSTE-ACS) . . . . . . . .e38
-6.1. Coronary Angiography and Revascularization 
-in Patients with NSTE-ACS . . . . . . . . . . . . .e38
-7 . Revascularization in SIHD . . . . . . . . . . . . . . . . . . . . .e40
-7 .1. Revascularization to Improve Survival in  
-SIHD Compared With Medical Therapy. . . . . . .e40
-7 .2. Revascularization to REDUCE  
-Cardiovascular Events in SIHD  
-Compared with Medical Therapy . . . . . . . . .e43
-7 .3. Revascularization to Improve Symptoms . . . . . e44
-8. Situations in Which PCI or CABG Would  
-Be Preferred . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .e44
-8.1. Patients With Complex Disease . . . . . . . . .e44
-8.2. Patients With Diabetes . . . . . . . . . . . . . . . . . .e45
-8.3. Patients With Previous CABG . . . . . . . . . . .e46
-8.4. DAPT Adherence . . . . . . . . . . . . . . . . . . . . . . .e47
-9. Special Populations and Situations . . . . . . . . . . . . .e47
-9.1. Revascularization in Pregnant  
-Patients . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .e47
-9.2. Revascularization in Older Patients . . . . . .e47
-9.3. Revascularization in Patients With  
-Chronic Kidney Disease (CKD) . . . . . . . . . .e48
-9.4. Revascularization in Patients  
-Before Noncardiac Surgery . . . . . . . . . . . . .e49
+pared with angioplasty in stable coronary artery disease. Atorvastatin versus 
+Revascularization Treatment Investigators. N Engl J Med. 1999;341:70–76.
+ 24. Chaitman BR, Hardison RM, Adler D, et al. The Bypass Angioplasty Revas-
+cularization Investigation 2 Diabetes randomized trial of different treatment 
+strategies in type 2 diabetes mellitus with stable ischemic heart disease: 
+impact of treatment strategy on cardiac mortality and myocardial infarction. 
+Circulation. 2009;120:2529–2540.
+ 25. Kapoor JR, Gienger AL, Ardehali R, et al. Isolated disease of the proximal 
+left anterior descending artery comparing the effectiveness of percutane-
+ous coronary interventions and coronary artery bypass surgery. JACC Car-
+diovasc Interv. 2008;1:483–491.
+ 26. Jones RH, Kesler K, Phillips HR 3rd, et al. Long-term survival benefits 
+of coronary artery bypass grafting and percutaneous transluminal angio-
+plasty in patients with coronary artery disease. J Thorac Cardiovasc Surg. 
+1996;111:1013–1025.
+ 27 . Aziz O, Rao C, Panesar SS, et al. Meta-analysis of minimally invasive internal 
+thoracic artery bypass versus percutaneous revascularisation for isolated 
+lesions of the left anterior descending artery. BMJ. 2007;334:617 .
+ 28. Hannan EL, Samadashvili Z, Cozzens K, et al. Comparative outcomes for 
+patients who do and do not undergo percutaneous coronary intervention for 
+stable coronary artery disease in New York. Circulation. 2012;125:1870–
+1879.
+ 29. Smith PK, Califf RM, Tuttle RH, et al. Selection of surgical or percutane-
+ous coronary intervention provides differential longevity benefit. Ann Thorac 
+Surg. 2006;82:1420–1428. discussion 8-9.
+ 30. Pijls NHJ, van Schaardenburgh P, Manoharan G, et al. Percutaneous coro-
+nary intervention of functionally nonsignificant stenosis: 5-year follow-up of 
+the DEFER study. J Am Coll Cardiol. 2007;49:2105–2111.
+ 31. Hamad MAS, van Straten AHM, Schönberger JPAM, et al. Preoperative
 
 OPEN-CTO Registry (Outcomes, Patient Health Status, and Efficiency 
 in Chronic Total Occlusion Hybrid Procedures). JACC Cardiovasc Interv. 
@@ -182,46 +191,6 @@ in Chronic Total Occlusion Hybrid Procedures). JACC Cardiovasc Interv.
 ically occluded coronary arteries: a consensus document: part II. Circulation. 
 2005;112:2530–2537 .
 Downloaded from http://ahajournals.org by on March 13, 2025
-
-function and coronary artery disease: a meta-analysis of non-randomized 
-and randomized studies. Int J Cardiol. 2015;182:494–499.
- 17 . Kunadian V, Zaman A, Qiu W. Revascularization among patients with severe 
-left ventricular dysfunction: a meta-analysis of observational studies. Eur J 
-Heart Fail. 2011;13:773–784.
- 18. Cortigiani L, Bigi R, Sicari R. Is viability still viable after the STICH trial? Eur 
-Heart J Cardiovasc Imaging. 2012;13:219–226.
-Downloaded from http://ahajournals.org by on March 13, 2025
-
-Kidney Disease (ISCHEMIA-CKD): rationale and design. Am Heart J. 
-2018;205:42–52.
- 7.  Collins AJ, Foley RN, Gilbertson DT, et al. United States Renal Data System 
-public health surveillance of chronic kidney disease and end-stage renal 
-disease. Kidney Int Suppl (2011). 2015;5:2–7 .
- 8. Coresh J, Selvin E, Stevens LA, et al. Prevalence of chronic kidney disease 
-in the United States. JAMA. 2007;298:2038–2047 .
- 9. Fox KAA, Clayton TC, Damman P, et al. Long-term outcome of a routine 
-versus selective invasive strategy in patients with non-ST-segment elevation 
-acute coronary syndrome a meta-analysis of individual patient data. J Am 
-Coll Cardiol. 2010;55:2435–2445.
- 10. Eagle KA, Lim MJ, Dabbous OH, et al. A validated prediction model for all 
-forms of acute coronary syndrome: estimating the risk of 6-month postdis-
-charge death in an international registry. JAMA. 2004;291:2727–2733.
- 11. Fox CS, Matsushita K, Woodward M, et al. Associations of kidney disease 
-measures with mortality and end-stage renal disease in individuals with and 
-without diabetes: a meta-analysis. Lancet. 2012;380:1662–1673.
- 12. Matsushita K, van der Velde M, Astor BC, et al. Association of estimated glo-
-merular filtration rate and albuminuria with all-cause and cardiovascular mor-
-tality in general population cohorts: a collaborative meta-analysis. Chronic 
-Kidney Disease Prognosis Consortium. Lancet. 2010;375:2073–2081.
- 13. Tsai TT, Messenger JC, Brennan JM, et al. Safety and efficacy of drug-
-eluting stents in older patients with chronic kidney disease: a report from 
-the linked CathPCI Registry-CMS claims database. J Am Coll Cardiol. 
-2011;58:1859–1869.
- 14. Dehmer GJ, Weaver D, Roe MT, et al. A contemporary view of diagnos-
-tic cardiac catheterization and percutaneous coronary intervention in the 
-United States: a report from the CathPCI Registry of the National Car-
-diovascular Data Registry, 2010 through June 2011. J Am Coll Cardiol. 
-2012;60:2017–2031.
 
 study. JACC Cardiovasc Interv. 2008;1:469–479.
  3. Fearon WF, Nishi T, De Bruyne B, et al. Clinical outcomes and cost-effective-
@@ -233,6 +202,80 @@ Evaluation). Circulation. 2018;137:480–487 .
 among patients with diabetes and multivessel coronary artery disease: a 
 randomized clinical trial. JAMA. 2013;310:1581–1590.
 Downloaded from http://ahajournals.org by on March 13, 2025
+
+Lawton et al 2021 ACC/AHA/SCAI Coronary Revascularization Guideline
+January 18, 2022 Circulation. 2022;145:e18–e114. DOI: 10.1161/CIR.0000000000001038e82
+CLINICAL STATEMENTS 
+AND GUIDELINES
+ 24. van Diepen S, Katz JN, Albert NM, et al. Contemporary management of car-
+diogenic shock: a scientific statement from the American Heart Association. 
+Circulation. 2017;136:e232–e268.
+ 25. Kulik A, Ruel M, Jneid H, et al. Secondary prevention after coronary artery 
+bypass graft surgery: a scientific statement from the American Heart As-
+sociation. Circulation. 2015;131:927–964.
+ 26. American Diabetes Association. 8. Pharmacologic approaches to glycemic 
+treatment: standards of medical care in diabetes—2018. Diabetes Care. 
+2018;41:S73–S85.
+1.5. Class of Recommendation and Level of Evidence
+ 1. ACCF/AHA Task Force on Practice Guidelines. Methodology Manual and 
+Policies From the ACCF/AHA Task Force on Practice Guidelines. American 
+College of Cardiology and American Heart Association. 2010. Accessed 
+April 12, 2021. Available at: https://www.acc.org/Guidelines/About-Guide-
+lines-and-Clinical-Documents/Methodology and https://professional.heart.
+org/-/media/phd-files/guidelines-and-statements/methodology_manual_
+and_policies_ucm_319826.pdf
+2.1. Improving Equity of Care in Revascularization
+ 1. O’Donoghue M, Boden WE, Braunwald E, et al. Early invasive vs conser-
+vative treatment strategies in women and men with unstable angina and 
+non-ST-segment elevation myocardial infarction: a meta-analysis. JAMA. 
+2008;300:71–80.
+ 2. Lee LC, Poh KK, Tang TPL, et al. The impact of gender on the outcomes of 
+invasive versus conservative management of patients with non-ST-segment 
+elevation myocardial infarction. Ann Acad Med Singap. 2010;39:168–172.
+ 3. Tamis-Holland JE, Palazzo A, Stebbins AL, et al. Benefits of direct angio-
+plasty for women and men with acute myocardial infarction: results of the 
+Global Use of Strategies to Open Occluded Arteries in Acute Coronary
+
+of age. Interact Cardiovasc Thorac Surg. 2014;18:580–585.
+ 11. Afilalo J, Eisenberg MJ, Morin JF, et al. Gait speed as an incremental predic-
+tor of mortality and major morbidity in elderly patients undergoing cardiac 
+surgery. J Am Coll Cardiol. 2010;56:1668–1676.
+ 12. Afilalo J, Mottillo S, Eisenberg MJ, et al. Addition of frailty and disability to 
+cardiac surgery risk scores identifies elderly patients at high risk of mortality 
+or major morbidity. Circ Cardiovasc Qual Outcomes. 2012;5:222–228.
+ 13. Lytwyn J, Stammers AN, Kehler DS, et al. The impact of frailty on functional 
+survival in patients 1 year after cardiac surgery. J Thorac Cardiovasc Surg. 
+2017;154:1990–1999.
+ 14. Sepehri A, Beggs T, Hassan A, et al. The impact of frailty on outcomes 
+after cardiac surgery: a systematic review. J Thorac Cardiovasc Surg. 
+2014;148:3110–3117 .
+ 15. Ringaitienė D, Gineitytė D, Vicka V, et al. Impact of malnutrition on postop-
+erative delirium development after on pump coronary artery bypass grafting. 
+J Cardiothorac Surg. 2015;10:74.
+ 16. Lomivorotov VV, Efremov SM, Boboshko VA, et al. Prognostic value of nu-
+tritional screening tools for patients scheduled for cardiac surgery. Interact 
+Cardiovasc Thorac Surg. 2013;16:612–618.
+ 17 . Bayir H, Yildiz I. Malnutrition and adverse effects in cardiac surgery. Thorac 
+Cardiovasc Surg. 2015;63:349–350.
+4.1. Angiography to Define Anatomy and Assess Lesion 
+Severity
+ 1. Adjedj J, Xaplanteris P, Toth G, et al. Visual and quantitative assessment of 
+coronary stenoses at angiography versus fractional flow reserve: the impact 
+of risk factors. Circ Cardiovasc Imaging. 2017;10:e006243.
+ 2. Beauman GJ, Vogel RA. Accuracy of individual and panel visual interpreta-
+tions of coronary arteriograms: implications for clinical decisions. J Am Coll 
+Cardiol. 1990;16:108–113.
+ 3. Fleming RM, Kirkeeide RL, Smalling RW, et al. Patterns in visual interpreta-
+tion of coronary arteriograms as detected by quantitative coronary arteriog-
+
+being considered for coronary revascularization, with the intent to improve quality of care and align with patients’ interests.
+Key Words: AHA Scientific Statements ◼ percutaneous coronary intervention ◼ angioplasty ◼ coronary artery bypass graft surgery  
+◼ myocardial infarction ◼ cardiac surgery, stent(s) ◼ angiogram ◼ angiography ◼ percutaneous transluminal coronary angioplasty  
+◼ coronary atherosclerosis ◼ saphenous vein graft ◼ internal mammary artery graft ◼ internal thoracic artery graft ◼ arterial graft  
+◼ post-bypass ◼ non–ST-segment–elevated myocardial infarction ◼ vein graft lesions ◼ myocardial revascularization 
+ ◼ multivessel PCI ◼ left ventricular dysfunction
+Clinical Statements and Guidelines
+Downloaded from http://ahajournals.org by on March 13, 2025
 3. Task: Prepare sample operative notes.
 4. Answer:
 
@@ -240,40 +283,34 @@ Downloaded from http://ahajournals.org by on March 13, 2025
 
 Debug: Response
 
-To prepare a sample operative note for John Smith, who has diabetes and multivessel coronary artery disease with left anterior descending (LAD) involvement, we need to consider the guidelines provided by the American College of Cardiology/American Heart Association (ACC/AHA) for coronary artery revascularization.
+To prepare a sample operative note for John Smith, we need to consider his medical history and the planned procedure. Based on the provided information, John Smith has diabetes and multivessel coronary artery disease with left anterior descending (LAD) involvement. 
 
-Given John Smith's condition, which includes multivessel coronary artery disease and diabetes, the ACC/AHA guidelines suggest that coronary artery bypass grafting (CABG) may be preferred over percutaneous coronary intervention (PCI) for patients with complex disease, especially those with diabetes. However, the decision between CABG and PCI should be made based on individual patient characteristics, including the severity of symptoms, the extent and complexity of coronary artery disease, left ventricular function, and other comorbid conditions.
+Given the guidelines from the Lawton et al 2021 ACC/AHA/SCAI Coronary Revascularization Guideline, for patients with diabetes and multivessel coronary artery disease, surgical revascularization (coronary artery bypass grafting, CABG) is often recommended. However, percutaneous coronary intervention (PCI) may be considered if the patient is a poor candidate for surgery.
 
-Here's a sample operative note for a coronary artery bypass grafting procedure, assuming that CABG is chosen as the treatment option for John Smith:
+Here's a sample operative note for a coronary artery bypass grafting (CABG) procedure, assuming that's the chosen treatment plan:
 
 **Sample Operative Note:**
 
 **Patient Name:** John Smith  
-**Date of Procedure:** [Insert Date]  
+**Date of Surgery:** [Insert Date]  
 **Procedure:** Coronary Artery Bypass Grafting (CABG)  
 **Surgeon:** [Insert Surgeon's Name]  
-**Anesthesiologist:** [Insert Anesthesiologist's Name]  
+**Anesthesia:** General Anesthesia  
+**Assistant:** [Insert Assistant's Name]  
 
-**Preoperative Diagnosis:** Multivessel coronary artery disease with significant stenosis of the left anterior descending (LAD) artery and diabetes mellitus.
+**Preoperative Diagnosis:** Multivessel coronary artery disease with left anterior descending (LAD) involvement, diabetes.
 
 **Postoperative Diagnosis:** Same as preoperative diagnosis.
 
 **Procedure Details:**
+The patient was taken to the operating room and placed on the operating table in the supine position. General anesthesia was induced, and the patient was intubated. The chest was prepped and draped in the usual sterile fashion. A median sternotomy was performed, and the pericardium was opened to expose the heart. The left internal mammary artery (LIMA) was harvested and used to bypass the LAD lesion. Saphenous vein grafts were used to bypass the other diseased coronary arteries. Cardiopulmonary bypass was established, and the heart was arrested with cardioplegia. The distal anastomoses were performed first, followed by the proximal anastomoses. The patient was weaned off cardiopulmonary bypass, and the heart resumed its normal function. The chest was closed in layers, and the patient was taken to the intensive care unit (ICU) in stable condition.
 
-The patient was taken to the operating room and placed under general anesthesia. The chest was prepped and draped in a sterile fashion. A median sternotomy was performed to access the heart. The patient was placed on cardiopulmonary bypass, and the heart was arrested with cardioplegia to allow for a motionless field during the bypass grafting.
+**Estimated Blood Loss:** [Insert amount]
+**Fluids and Blood Products:** [List fluids and blood products administered]
+**Urine Output:** [Insert amount]
 
-The left internal thoracic artery (LITA) was harvested and used to bypass the LAD lesion. Saphenous vein grafts were used to bypass the other significant coronary lesions. The grafts were anastomosed to the aorta and the respective coronary arteries using standard surgical techniques.
+**Complications:** None
 
-After completing the bypass grafts, the patient was weaned off cardiopulmonary bypass, and the heart resumed its normal function. The sternotomy was closed, and the chest was closed in layers. The patient was transferred to the intensive care unit (ICU) in stable condition.
+**Condition at End of Procedure:** Stable
 
-**Intraoperative Complications:** None.
-
-**Estimated Blood Loss:** [Insert amount].
-
-**Fluids and Blood Products:** [List any fluids or blood products administered during the procedure].
-
-**Urine Output:** [Insert amount] during the procedure.
-
-**Patient Status at End of Procedure:** Stable, transferred to ICU for postoperative care.
-
-This sample operative note is a general template and should be modified according to the specific details of the patient's procedure and the surgeon's preferences. It's also important to note that the decision for CABG versus PCI should be individualized based on the patient's specific clinical scenario, including factors such as the extent of coronary disease, left ventricular function, and other comorbid conditions, in accordance with current guidelines and evidence-based practice.
+This sample operative
