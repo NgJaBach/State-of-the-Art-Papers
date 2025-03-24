@@ -4,6 +4,7 @@
 ---
 
 <h1 id="code--docs"><a href="https://github.com/NgJaBach/State-of-the-Art-Papers/tree/main/SurgeryLLM">Code + Docs</a></h1>
+<p><img src="https://dl.imgdrop.io/file/aed8b140-8472-4813-922b-7ce35ef93c9e/2025/03/24/41746_2024_1391_Fig1_HTML556e12872fdd591e.webp" alt="surgeryllm"></p>
 <h1 id="lựa-chọn-model">Lựa chọn model:</h1>
 <p>Trong bài báo, tác giả sử dụng từ model Llama 2 cho đến 3.2, nhưng để cho đơn giản, em sẽ giả sử tác giả sử dụng Llama 3.2.</p>
 <p>Để đảm bảo model sử dụng của chúng ta đủ tốt, ta muốn một model đạt MMLU tương đương với Llama 3.2, đồng thời muốn giá của model đó rẻ hơn so với model bài báo sử dụng (vì tự chạy Llama khá là khoai). Claude và GPT thường khá là đắt, do đó ta dễ dàng loại trừ được một số model cấp cao của họ. Ngoài ra thì các model đạt MMLU dưới 80% ta đều bỏ hết.</p>
