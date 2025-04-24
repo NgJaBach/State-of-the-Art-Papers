@@ -1,0 +1,28 @@
+Record:
+Patient: Jane Doe  
+Age: 34, Female  
+Medical History: Hypothyroidism; History of recurrent urinary tract infections  
+Vital Signs: BP 118/76 mmHg, HR 72 bpm  
+Laboratory Findings:  
+- Serum Sodium: 150 mEq/L  
+- Serum Potassium: 2.8 mEq/L  
+- Glucose, Fasting: 110 mg/dL  
+- ALT: 55 U/L  
+- TSH: 6.2 μU/mL  
+- Creatinine: 1.5 mg/dL  
+- Hemoglobin: 11.0 g/dL  
+- Leukocyte count: 12,500/mm3  
+- Hemoglobin A1c: 6.5%  
+  
+Preoperative Workup: Complete blood count, comprehensive metabolic panel  
+
+Anomalies:  
+- Hypernatremia: Serum Sodium at 150 mEq/L (above normal range 136–146 mEq/L)  
+- Hypokalemia: Serum Potassium at 2.8 mEq/L (below normal range 3.5–5.0 mEq/L)  
+- Slightly Elevated Fasting Glucose: 110 mg/dL (above normal range 70–100 mg/dL)  
+- Elevated ALT: 55 U/L (above normal range 10–40 U/L)  
+- Elevated TSH: 6.2 μU/mL (above normal range 0.4–4.0 μU/mL), indicating suboptimal control of hypothyroidism  
+- Slightly Elevated Creatinine: 1.5 mg/dL (above normal range 0.6–1.2 mg/dL)  
+- Mild Anemia: Hemoglobin at 11.0 g/dL (below normal range for females 12.0–16.0 g/dL)  
+- Leukocytosis: Leukocyte count at 12,500/mm3 (above normal range 4,500–11,000/mm3)  
+- Elevated Hemoglobin A1c: 6.5% (indicative of diabetes control issues, above normal ≤6%)  

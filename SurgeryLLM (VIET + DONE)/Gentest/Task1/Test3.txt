@@ -1,0 +1,22 @@
+Record:
+
+Patient: Jane Doe  
+Age: 62, Female  
+Medical History: Hypertension, Chronic Kidney Disease Stage 3  
+Vital Signs: BP 150/90 mmHg, HR 92 bpm  
+Laboratory Findings:  
+- Sodium (Na+): 148 mEq/L  
+- Potassium (K+): 5.8 mEq/L  
+- Creatinine: 2.3 mg/dL  
+- Glucose (Fasting): 112 mg/dL  
+- Calcium: 7.9 mg/dL  
+- Albumin: 2.8 g/dL  
+Preoperative Workup: Abdominal ultrasound, ECG 
+
+Anomalies:  
+- Sodium (Na+) is elevated (148 mEq/L; normal range: 136–146 mEq/L)  
+- Potassium (K+) is elevated (5.8 mEq/L; normal range: 3.5–5.0 mEq/L)  
+- Creatinine is elevated (2.3 mg/dL; normal range: 0.6–1.2 mg/dL)  
+- Fasting Glucose is elevated (112 mg/dL; normal range: 70–100 mg/dL)  
+- Calcium is low (7.9 mg/dL; normal range: 8.4–10.2 mg/dL)  
+- Albumin is low (2.8 g/dL; normal range: 3.5–5.5 g/dL)  

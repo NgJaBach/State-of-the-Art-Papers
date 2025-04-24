@@ -1,0 +1,19 @@
+Record:  
+Patient: Jane Doe  
+Age: 42, Female  
+Medical History: Hypothyroidism; recent weight loss  
+Vital Signs: BP 125/80 mmHg, HR 68 bpm  
+Laboratory Findings:  
+- Sodium (Na+): 132 mEq/L  
+- Potassium (K+): 5.5 mEq/L  
+- Total Bilirubin: 1.5 mg/dL  
+- Glucose: 110 mg/dL (fasting)  
+- TSH: 0.2 μU/mL  
+Preoperative Workup: Basic metabolic panel, thyroid function tests  
+
+Anomalies:  
+- Sodium is below the normal range (Hyponatremia).  
+- Potassium is above the normal range (Hyperkalemia).  
+- Total Bilirubin is above the normal range, indicating potential liver dysfunction or hemolysis.  
+- Fasting Glucose is above the normal range, indicating possible impaired fasting glucose or diabetes.  
+- TSH is below the normal range, suggesting potential hyperthyroid condition.

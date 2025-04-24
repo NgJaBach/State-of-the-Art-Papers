@@ -1,0 +1,16 @@
+Record:
+
+Patient: Jane Doe  
+Age: 62, Female  
+Medical History: Hypertension; Chronic Kidney Disease  
+Vital Signs: BP 150/95 mmHg, HR 78 bpm  
+Laboratory Findings: Sodium 124 mEq/L, Potassium 6.2 mEq/L, Creatinine 3.6 mg/dL, Calcium 7.2 mg/dL, Hemoglobin 10.5 g/dL  
+Preoperative Workup: Blood Gas Analysis, Renal Ultrasound  
+
+Anomalies:
+
+- Sodium: 124 mEq/L (reference range: 136–146 mEq/L) - Hyponatremia  
+- Potassium: 6.2 mEq/L (reference range: 3.5–5.0 mEq/L) - Hyperkalemia  
+- Creatinine: 3.6 mg/dL (reference range: 0.6–1.2 mg/dL) - Elevated indicating renal dysfunction  
+- Calcium: 7.2 mg/dL (reference range: 8.4–10.2 mg/dL) - Hypocalcemia  
+- Hemoglobin: 10.5 g/dL (female reference range: 12.0–16.0 g/dL) - Anemia  

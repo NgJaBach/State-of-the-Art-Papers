@@ -2,288 +2,193 @@
 
 Debug: Keywords
 
-Coronary angiography.
+- Electrocardiogram (ECG/EKG)  
+- Echocardiogram  
+- Stress test  
+- Chest X-ray  
+- Complete blood count (CBC)  
+- Blood chemistry profile  
+- Coagulation profile  
+- Pulmonary function test  
+- Kidney function test  
+- Liver function test  
+- Urinalysis
 
 
 Debug: Prompt
 
 
-1. Record: 
+---
+disease, history and physical examination find-
+ings should be correlated with the results of 
+noninvasive testing (ie, ECG, chest x-ray, trans-
+thoracic echocardiogram). If there is discordance 
+between the physical examination and initial 
+noninvasive testing, consider further noninva-
+sive (computed tomography, cardiac magnetic 
+resonance imaging, stress testing) or invasive
+
+Cerebral Stroke and neurologic deﬁcits, coma and altered mental 
+status
+Spinal Paraplegia
+Mesenteric Abdominal pain, bowel ischemia, lactic acidosis, elevation 
+of liver function test results
+Renal Acute kidney injury, oliguria
+Extremity Loss of pulses in /g1161 extremity, sensory or motor dysfunction
+Downloaded from http://ahajournals.org by on March 14, 2025
+
+distal flow reversals. Pulmonary systolic pressure also 
+is estimated, along with qualitative evaluation of right 
+ventricular (RV) size and function.7 In selected patients, 
+additional testing, such as stress testing, TEE, cardiac 
+catheterization, and CT or CMR imaging, might be 
+indicated. However, both the performance and inter -
+pretation of these diagnostic tests require meticulous
+
+tomography (CT), magnetic resonance imaging (MRI), 
+transthoracic echocardiography (TTE) and transesoph-
+ageal echocardiography (TEE), and abdominal aortic 
+ultrasound all have important roles in these evaluations 
+(Table 5). Selection of an imaging modality may be based 
+on patient-specific factors, including hemodynamic sta-
+bility, contrast allergy, renal function, and patient toler-
+
+History and physical Establishes symptom severity, comorbidities, valve disease presence and 
+severity, and presence of HF 
+ECG Establishes rhythm, LV function, and presence or absence of hypertrophy
+Further diagnostic testing: Information required for 
+equivocal symptom status, discrepancy between 
+examination and echocardiogram, further definition
+
+2.3.4. Diagnostic Testing: Cardiac Catheterization . . e81
+2.3.5. Diagnostic Testing: Exercise Testing . . . . . . e81
+2.4. Basic Principles of Medical Therapy . . . . . . . . . . . . e81
+2.4.1. Secondary Prevention of Rheumatic Fever e82
+2.4.2. IE Prophylaxis  . . . . . . . . . . . . . . . . . . . . . . . . e82
+2.4.3. Anticoagulation for AF in Patients With VHD e83
+
+data acquisition at various stages of exercise. Bicycle 
+exercise testing during cardiac catheterization can 
+also be performed for direct measurements of pul-
+monary artery wedge pressure and pulmonary pres-
+sures at rest and with exercise. Simple functional 
+capacity helps to quantify the patient’s symptoms. 
+Changes in valve gradient should be measured,
+
+3.2. Conventions of Measurements ........ e352
+3.2.1. Computed Tomography ........ e353
+3.2.2. Magnetic Resonance Imaging ... e353
+3.2.3. Echocardiography ............. e354
+3.2.4. Intravascular Ultrasound ....... e354
+3.2.5. Abdominal Ultrasound ......... e355
+4. Multidisciplinary Aortic Teams ............... e355
+5. Shared Decision-Making .................... e357
+
+Elevated venous pressure
+Dyspnea on exertion, fatigue, 
+ascites, edema
+c-V wave indicates systolic positive wave; ERO, effective regurgitant orifice; RA, right atrial; RV, right ventricular; and TR, tricuspid regurgitation.
+Downloaded from http://ahajournals.org by on March 14, 2025
+
+sided chambers and inferior vena cava, assess 
+RV systolic function, estimate pulmonary 
+artery systolic pressure, and characterize any 
+associated left-sided heart disease.1,2 
+2a C-LD
+2.  In patients with TR, invasive measurement 
+of the cardiac index, right-sided diastolic 
+pressures, pulmonary artery pressures, and 
+pulmonary vascular resistance, as well as
+
+Catheterization Provides measurement of intracardiac and pulmonary pressures, valve 
+severity, and hemodynamic response to exercise and drugs
+Further risk stratification: Information on future 
+risk of the valve disease, which is important for 
+determination of timing of intervention
+Biomarkers Provide indirect assessment of filling pressures and myocardial damage
+
+is made. If noninvasive testing yields inconclusive 
+data, particularly in the symptomatic patient, or if 
+there is a discrepancy between the noninvasive tests 
+and clinical findings, a hemodynamic cardiac cath-
+eterization with direct intracardiac measurements of 
+transvalvular pressure gradients and cardiac output 
+measurements provides valuable clinical information.
+
+7 .2. AAS: Diagnostic Evaluation (Imaging, Laboratory Testing)
+ 1. Bhave NM, Nienaber CA, Clough RE, et al. Multimodality imaging of thoracic 
+aortic diseases in adults. J Am Coll Cardiol Img. 2018;11:902–919.
+ 2. Strayer RJ, Shearer PL, Hermann LK. Screening, evaluation, and ear -
+ly management of acute aortic dissection in the ED. Curr Cardiol Rev. 
+2012;8:152–157 .
+
+AS indicates aortic stenosis; AVA, aortic valve area; AVAi, aortic valve area index; AVR, aortic valve replacement; BNP , B-type natriuretic peptide; BP , blood pressure; 
+DSE, dobutamine stress echocardiography ETT, exercise treadmill test; LVEF, left ventricular ejection fraction; ∆Pmean, mean systolic pressure gradient between LV
+
+4 | Laboratory Values 
+   
+   
+Laboratory Values  (continued)  
+ Reference Range  SI Reference Intervals  
+   
+Coagulation:    
+Partial thromboplastin time (PTT/aPTT)
+
+1. Harter LP, Gross BH, Callen PW, et al. Ultrasonic evaluation of abdominal 
+aortic thrombus. J Ultrasound Med. 1982;1:315–318.
+ 2. Steiner E, Rubens D, Weiss SL, et al. Sonographic examination of the ab-
+dominal aorta through the left flank: a prospective study. J Ultrasound Med. 
+1986;5:499–502.
+ 3. Owens DK, Davidson KW, Krist AH, et al. Screening for abdominal aortic
+
+ties on noninvasive testing. Irrespective of the presenta-
+tion, all patients with known or suspected VHD should 
+undergo an initial meticulous history and physical ex-
+amination. A detailed physical examination should be 
+performed to diagnose and assess the severity of valve 
+lesions. An electrocardiogram (ECG) to confirm heart 
+rhythm and a chest x-ray to assess the presence or ab-
+
+Recommendation for Diagnostic Testing: Exercise Testing for 
+Chronic Primary MR
+Referenced studies that support the recommendation are 
+summarized in Online Data Supplement 28.
+COR LOE Recommendation
+2a B-NR
+1.  In patients with primary MR (Stages B and 
+C) and symptoms that might be attributable 
+to MR, hemodynamic exercise testing 
+using Doppler echocardiography or cardiac
+
+becomes abnormal. 15,16,19,21 Thus, novel markers 
+of LV systolic function, such as global longitudi-
+nal strain, may be useful adjuncts in assessing LV 
+function in patients with chronic MR.
+7.2.2.4. Diagnostic Testing: Cardiac Catheterization
+Left ventriculography and hemodynamic measurements 
+are useful when clinical assessment and noninvasive
+
+of valve disease, or assessing response of the 
+ventricles and pulmonary circulation to load and to 
+exercise
+Chest x-ray Important for the symptomatic patient; establishes heart size and presence 
+or absence of pulmonary vascular congestion, intrinsic lung disease, and 
+calcification of aorta and pericardium
+TEE Provides high-quality assessment of mitral and prosthetic valve, including
+---
+A. Record: 
 Patient: John Smith
 Age: 58, Male
 Medical History: Diabetes; multivessel coronary artery disease with left anterior descending (LAD) involvement
 Vital Signs: BP 140/85 mmHg, HR 80 bpm
 Laboratory Findings: Hemoglobin 9.0 g/dL
 Preoperative Workup: Basic clinical assessment, coronary angiography
-
-2. Reference: Otto et al 2020 ACC/AHA Guideline for the Management of Valvular Heart Disease
-February 2, 2021 Circulation. 2021;143:e72–e227. DOI: 10.1161/CIR.0000000000000923
-e220
-CLINICAL STATEMENTS  
-AND GUIDELINES
- 3. Dangas G, Khan S, Curry BH, et al. Angina pectoris in severe aortic steno-
-sis. Cardiology. 1999;92:1–3.
- 4. Basta LL, Raines D, Najjar S, et al. Clinical, haemodynamic, and coronary 
-angiographic correlates of angina pectoris in patients with severe aortic 
-valve disease. Br Heart J. 1975;37:150–7.
- 5. Thalji NM, Suri RM, Daly RC, et al. Assessment of coronary artery disease risk in 
-5463 patients undergoing cardiac surgery: when is preoperative coronary an-
-giography necessary? J Thorac Cardiovasc Surg. 2013;146:1055–63, 64.e1.
- 6. Kannel WB, McGee D, Gordon T. A general cardiovascular risk profile: the 
-Framingham Study. Am J Cardiol. 1976;38:46–51.
- 7. Diamond GA, Forrester JS. Analysis of probability as an aid in the clinical 
-diagnosis of coronary-artery disease. N Engl J Med. 1979;300:1350–8.
- 8. Heidenreich PA, Kapoor JR. Radiation induced heart disease: systemic dis-
-orders in heart disease. Heart. 2009;95:252–8.
- 9. Gahl K, Sutton R, Pearson M, et al. Mitral regurgitation in coronary heart 
-disease. Br Heart J. 1977;39:13–8.
- 10. Enriquez-Sarano M, Klodas E, Garratt KN, et al. Secular trends in coronary 
-atherosclerosis—analysis in patients with valvular regurgitation. N Engl J 
-Med. 1996;335:316–22.
- 11. Breisblatt WM, Cerqueira M, Francis CK, et al. Left ventricular function in 
-ischemic mitral regurgitation–a precatheterization assessment. Am Heart 
-J. 1988;115:77–82.
- 12. Mark DB, Berman DS, Budoff MJ, et al. ACCF/ACR/AHA/NASCI/SAIP/
-SCAI/SCCT 2010 expert consensus document on coronary computed to-
-mographic angiography: a report of the American College of Cardiology 
-Foundation Task Force on Expert Consensus Documents. J Am Coll Car -
-diol. 2010;55:2663–99.
- 13. Opolski MP , Kim WK, Liebetrau C, et al. Diagnostic accuracy of computed
-
-Angiography and Interventions, Society of Interventional Radiology, Soci-
-ety of Thoracic Surgeons, and Society for Vascular Medicine. Circulation. 
-2010;121:e266–e369.
-Downloaded from http://ahajournals.org by on March 14, 2025
-
-Coherence Tomography [OCT] Guided Coronary 
-Stent Implantation Compared to Angiography: 
-a Multicenter Randomized Trial in PCI) trial is 
-an ongoing trial designed to evaluate clinical 
-Downloaded from http://ahajournals.org by on March 13, 2025
-
-being considered for coronary revascularization, with the intent to improve quality of care and align with patients’ interests.
-Key Words: AHA Scientific Statements ◼ percutaneous coronary intervention ◼ angioplasty ◼ coronary artery bypass graft surgery  
-◼ myocardial infarction ◼ cardiac surgery, stent(s) ◼ angiogram ◼ angiography ◼ percutaneous transluminal coronary angioplasty  
-◼ coronary atherosclerosis ◼ saphenous vein graft ◼ internal mammary artery graft ◼ internal thoracic artery graft ◼ arterial graft  
-◼ post-bypass ◼ non–ST-segment–elevated myocardial infarction ◼ vein graft lesions ◼ myocardial revascularization 
- ◼ multivessel PCI ◼ left ventricular dysfunction
-Clinical Statements and Guidelines
-Downloaded from http://ahajournals.org by on March 13, 2025
-
-at 0.2% and 3.2%, respectively. 9 Finally, in the 
-DEFINE-FLAIR and the iFR-SWEDEHEART trials, 
-rates of MACE in patients who had PCI deferred on 
-the basis of an FFR >0.80 or an iFR >0.89 were 
-4.05% and 4.12%, respectively, 10 with unplanned 
-revascularization being the most frequent cause of 
-MACE. The cutoffs of FFR and iFR provided were 
-those used in the clinical trials. On occasion, bor-
-derline values may warrant further ischemia testing 
-or additional investigations.
-4.4. Intravascular Ultrasound to Assess Lesion 
-Severity
-Recommendation for Intravascular Ultrasound to Assess Lesion Severity
-Referenced studies that support the recommendation are summarized 
-in Online Data Supplement 6.
-COR LOE Recommendation
-2a B-NR
-1. In patients with intermediate stenosis of the left 
-main artery, intravascular ultrasound (IVUS) is 
-reasonable to help define lesion severity.1-5
-Synopsis
-IVUS can offer important anatomic information beyond what 
-is seen on coronary angiography. IVUS is particularly use-
-ful in lesions involving the left main artery where there may 
-be limitations in coronary angiography due to overlapping 
-vessels or foreshortening. IVUS offers significantly greater 
-spatial resolution than angiography alone (IVUS axial reso-
-lution is 100 to 150 μm, and coronary angiography axial 
-resolution is 300 μm). Detailed cross-sectional images pro-
-vide accurate evaluation of lesion characteristics, including 
-lumen dimensions, lesion length, plaque morphology and 
-location, thrombus, dissection, and stent apposition and ex-
-pansion. Additionally, minimal lumen area on IVUS has been 
-shown to correlate with physiological indices.6
-Recommendation-Specific Supportive Text
-1. In the case of indeterminate left main disease, 
-studies have shown that IVUS evaluation with 
-deferral of intervention for a minimum lumen area 
-of ≥6 to 7 .5 mm2 is safe,1,2 although a smaller cut-
-off (4.5–4.8 mm 2) may be more appropriate in
-
-OPEN-CTO Registry (Outcomes, Patient Health Status, and Efficiency 
-in Chronic Total Occlusion Hybrid Procedures). JACC Cardiovasc Interv. 
-2017;10:1523–1534.
- 9. Stone GW, Reifart NJ, Moussa I, et al. Percutaneous recanalization of chron-
-ically occluded coronary arteries: a consensus document: part II. Circulation. 
-2005;112:2530–2537 .
-Downloaded from http://ahajournals.org by on March 13, 2025
-
-5. Ladwiniec A, Walsh SJ, Holm NR, et al. Intravascular ultrasound to guide 
-left main stem intervention: a NOBLE trial substudy. EuroIntervention. 
-2020;16:201–209.
- 6. Zhang J, Gao X, Kan  J, et al. Intravascular ultrasound versus angiography-
-guided drug-eluting stent implantation: the UL TIMATE trial. J Am Coll Car-
-diol. 2018;72:3126–3137 .
- 7.  Andell P, Karlsson S, Mohammad MA, et al. Intravascular ultrasound guid-
-ance is associated with better outcome in patients undergoing unprotected 
-left main coronary artery stenting compared with angiography guidance 
-alone. Circ Cardiovasc Interv. 2017;10:e004813.
- 8. Kim B-K, Shin D-H, Hong M-K, et al. Clinical impact of intravascular ultra-
-sound-guided chronic total occlusion intervention with zotarolimus-eluting 
-versus biolimus-eluting stent implantation: randomized study. Circ Cardio-
-vasc Interv. 2015;8:e002592.
- 9. Witzenbichler B, Maehara A, Weisz G, et al. Relationship between intra-
-vascular ultrasound guidance and clinical outcomes after drug-eluting 
-stents: the assessment of dual antiplatelet therapy with drug-eluting stents 
-(ADAPT-DES) study. Circulation. 2014;129:463–470.
- 10. Gao X-F, Ge Z, Kong X-Q, et al. 3-year outcomes of the UL TIMATE trial 
-comparing intravascular ultrasound versus angiography-guided drug-eluting 
-stent implantation. JACC Cardiovasc Interv. 2021;14:247–257 .
- 11. Ali ZA, Maehara A, Généreux P, et al. Optical coherence tomography com-
-pared with intravascular ultrasound and with angiography to guide coronary 
-stent implantation (ILUMIEN III: OPTIMIZE PCI): a randomised controlled 
-trial. Lancet. 2016;388:2618–2628.
- 12. Meneveau N, Souteyrand G, Motreff P, et al. Optical coherence tomography 
-to optimize results of percutaneous coronary intervention in patients with 
-non-ST-elevation acute coronary syndrome: results of the multicenter, ran-
-domized DOCTORS study (Does Optical Coherence Tomography Optimize 
-Results of Stenting). Circulation. 2016;134:906–917 .
-
-ratio or fractional flow reserve in PCI. N Engl J Med. 2017;376:1824–1834.
- 5. Xaplanteris P, Fournier S, Pijls NHJ, et al. Five-year outcomes with PCI 
-guided by fractional flow reserve. N Engl J Med. 2018;379:250–259.
- 6. Götberg M, Christiansen EH , Gudmundsdottir IJ, et al. Instantaneous 
-wave-free ratio versus fractional flow reserve to guide PCI. N Engl J Med. 
-2017;376:1813–1823.
- 7.  Zimmermann FM, Ferrara A, Johnson NP, et al. Deferral vs. performance of 
-percutaneous coronary intervention of functionally non-significant coronary 
-stenosis: 15-year follow-up of the DEFER trial. Eur Heart J. 2015;36:3182–
-3188.
- 8. Pijls NHJ, van Schaardenburgh P, Manoharan G, et al. Percutaneous coro-
-nary intervention of functionally nonsignificant stenosis: 5-year follow-up of 
-the DEFER study. J Am Coll Cardiol. 2007;49:2105–2111.
- 9. Pijls NHJ, Fearon WF, Tonino PAL, et al. Fractional flow reserve versus an-
-giography for guiding percutaneous coronary intervention in patients with 
-multivessel coronary artery disease: 2-year follow-up of the FAME (Frac-
-tional Flow Reserve Versus Angiography for Multivessel Evaluation) study. J 
-Am Coll Cardiol. 2010;56:177–184.
- 10. Escaned J, Ryan N, Mejía-Rentería H, et al. Safety of the deferral of coro-
-nary revascularization on the basis of instantaneous wave-free ratio and 
-fractional flow reserve measurements in stable coronary artery disease and 
-acute coronary syndromes. JACC Cardiovasc Interv. 2018;11:1437–1449.
- 11. Bruno F, D’Ascenzo F, Marengo G, et al. Fractional flow reserve guided ver-
-sus angiographic guided surgical revascularization: a meta-analysis. Cath-
-eter Cardiovasc Interv. 2020;98:e18–e23.
- 12. Timbadia D, Ler A, Sazzad F, et al. FFR-guided versus coronary angiogram-
-guided CABG: a review and meta-analysis of prospective randomized con-
-trolled trials. J Card Surg. 2020;35:2785–2793.
- 13. Thuesen AL, Riber LP, Veien KT, et al. Fractional flow reserve versus an-
-
-ular arrhythmias and coronary artery disease of myocardial revascularization 
-effects. Rom J Intern Med. 2010;48:47–50.
- 7.  Mondésert B, Khairy P, Schram G, et al. Impact of revascularization in patients 
-with sustained ventricular arrhythmias, prior myocardial infarction, and pre-
-served left ventricular ejection fraction. Heart Rhythm. 2016;13:1221–1227 .
- 8. Elsokkari I, Parkash R, Gray CJ, et al. Effect of coronary revascularization on 
-long-term clinical outcomes in patients with ischemic cardiomyopathy and 
-recurrent ventricular arrhythmia. Pacing Clin Electrophysiol. 2018;41:775–779.
- 9. Chi WK, Gong M, Bazoukis G, et al. Impact of coronary artery chronic total 
-occlusion on arrhythmic and mortality outcomes: a systematic review and 
-meta-analysis. JACC Clin Electrophysiol. 2018;4:1214–1223.
- 10. Cronier P, Vignon P, Bouferrache K, et al. Impact of routine percutaneous 
-coronary intervention after out-of-hospital cardiac arrest due to ventricular 
-fibrillation. Crit Care (London, England). 2011;15:R122.
- 11. Spaulding CM, Joly LM, Rosenberg A, et al. Immediate coronary an-
-giography in survivors of out-of-hospital cardiac arrest. N Engl J Med. 
-1997;336:1629–1633.
- 12. Al-Khatib SM, Stevenson WG, Ackerman MJ, et al. 2017 AHA/ACC/HRS 
-guideline for management of patients with ventricular arrhythmias and the 
-prevention of sudden cardiac death: a report of the American College of Car-
-diology/American Heart Association Task Force on Clinical Practice Guide-
-lines and the Heart Rhythm Society. Circulation. 2018;138:e272–e391.
- 13. Ngaage DL, Cale AR, Cowen ME, et al. Early and late survival after surgical 
-revascularization for ischemic ventricular fibrillation/tachycardia. Ann Thorac 
-Surg. 2008;85:1278–1281.
- 14. Zanuttini D, Armellini I, Nucifora G, et al. Impact of emergency coronary 
-angiography on in-hospital outcome of unconscious survivors after out-of-
-hospital cardiac arrest. Am J Cardiol. 2012;110:1723–1728.
-
-annular dilation, and decreased closing forces 
-from reduced contractility.9–11 Because this LV dys-
-function may be attributable to CAD and accom-
-panying myocardial ischemia, the assessment of 
-coronary anatomy status is necessary to complete 
-the diagnosis and allow evaluation of revascular -
-ization options.
-3. Contrast-enhanced coronary CT angiography is 
-an alternative to coronary angiography among 
-selected patients who are at low to intermediate 
-pretest probability of CAD before valve surgery.12 
-This does not include patients who have active 
-symptoms of angina, those with documented 
-ischemia, or those with a prior history of CAD, 
-all of whom should have selective coronary angi-
-ography. Recent studies, most often in the set-
-ting of a pre-TAVI evaluation, have demonstrated 
-diagnostic sensitivity of >90%, specificity of 60% 
-to 90%,13–15,21 and accuracy of >90%.21 Contrast-
-enhanced coronary CT angiography may be safer 
-than coronary angiography in selected patient 
-populations, such as those with IE and vegeta-
-tions on the aortic valve. However, a positive con-
-trast-enhanced coronary CT angiogram, defined 
-as the presence of epicardial CAD, requires con-
-firmation with invasive coronary angiography 
-to establish the need for and extent of CABG. 
-The risk of radiation exposure and renal failure 
-because of the contrast injection should be taken 
-into consideration.
-4. The presence of uncorrected CAD has been shown 
-to negatively impact both perioperative 22,23 and 
-late outcomes of surgery for VHD.19. Accordingly, 
-concomitant CABG has been favored. These stud-
-ies of concomitant CABG at the time of valve 
-surgery have demonstrated little or no adverse 
-impact on the acute perioperative mortality rate, 
-despite increased cross-clamp and cardiopulmo-
-nary bypass times. Moreover, combined CABG 
-Downloaded from http://ahajournals.org by on March 14, 2025
-3. Task: Identify unavailable preoperative tests.
-4. Answer:
+ 
+B. Task: Identify unavailable preoperative tests.
+C. Answer:
 
 
 
 Debug: Response
 
-Based on the patient record, the following preoperative tests are mentioned: 
-
-1. Basic clinical assessment
-2. Coronary angiography
-
-However, other tests that might be considered preoperative tests are mentioned in the reference, such as:
-
-1. Contrast-enhanced coronary CT angiography
-2. Intravascular ultrasound (IVUS)
-3. Fractional flow reserve (FFR)
-4. Instantaneous wave-free ratio (iFR)
-5. Optical coherence tomography (OCT)
-
-But, the patient record does not mention the results of the following tests:
- 
-1. Echocardiogram (to assess left ventricular function)
-2. Stress test (to assess for inducible ischemia)
-3. Cardiac MRI (to assess for myocardial viability)
-4. Holter monitor (to assess for arrhythmias)
-
-Therefore, the unavailable preoperative tests for John Smith are:
-
-1. Echocardiogram
-2. Stress test
-3. Cardiac MRI
-4. Holter monitor
-5. Contrast-enhanced coronary CT angiography (not mentioned in the patient record)
-6. Intravascular ultrasound (IVUS) (not mentioned in the patient record)
-7. Fractional flow reserve (FFR) (not mentioned in the patient record)
-8. Instantaneous wave-free ratio (iFR) (not mentioned in the patient record)
-9. Optical coherence tomography (OCT) (not mentioned in the patient record)
+I don't know.

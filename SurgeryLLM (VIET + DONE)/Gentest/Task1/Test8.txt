@@ -1,0 +1,25 @@
+**Record:**
+
+Patient: Jane Doe  
+Age: 65, Female  
+Medical History: Hypertension, Chronic Kidney Disease Stage 3  
+Vital Signs: BP 160/90 mmHg, HR 72 bpm  
+Laboratory Findings:  
+- Sodium (Na+): 132 mEq/L  
+- Potassium (K+): 5.8 mEq/L  
+- Creatinine: 1.8 mg/dL  
+- Hemoglobin: 11.0 g/dL  
+- Erythrocyte count: 3.2 million/mm3  
+- LDL Cholesterol: 180 mg/dL  
+- Platelet count: 110,000/mm3  
+
+Preoperative Workup: Blood chemistry panel, CBC, ECG  
+
+**Anomalies:**
+- Sodium (Na+) is below the normal reference range (136–146 mEq/L), indicating hyponatremia.
+- Potassium (K+) is above the normal reference range (3.5–5.0 mEq/L), indicating hyperkalemia.
+- Creatinine is above the normal reference range (0.6–1.2 mg/dL), indicating impaired kidney function.
+- Hemoglobin is below the normal reference range for females (12.0–16.0 g/dL), indicating anemia.
+- Erythrocyte count is below the normal reference range for females (3.5–5.5 million/mm3), further indicating anemia.
+- LDL Cholesterol is above the normal reference range (<160 mg/dL), indicating high LDL cholesterol levels.
+- Platelet count is below the normal reference range (150,000–400,000/mm3), indicating thrombocytopenia.

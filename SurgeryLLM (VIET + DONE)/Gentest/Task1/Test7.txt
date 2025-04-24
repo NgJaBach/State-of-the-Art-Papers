@@ -1,0 +1,32 @@
+**Record:**
+
+Patient: Mary Johnson  
+Age: 46, Female  
+Medical History: Hypertension, Hypothyroidism  
+Vital Signs: BP 150/95 mmHg, HR 76 bpm  
+Laboratory Findings:  
+- Sodium (Na+): 133 mEq/L  
+- Potassium (K+): 5.5 mEq/L  
+- Bicarbonate (HCO3–): 18 mEq/L  
+- Creatinine: 1.6 mg/dL  
+- Glucose, Fasting: 110 mg/dL  
+- Calcium: 11.0 mg/dL  
+- Aspartate aminotransferase (AST): 50 U/L  
+- Platelet count: 130,000/mm3  
+- Thyroid-stimulating hormone (TSH): 5.5 μU/mL  
+- Hemoglobin A1c: 7%  
+
+Preoperative Workup: Basic clinical assessment, thyroid function tests
+
+**Anomalies:**
+
+- Sodium (Na+): Below normal range (133 vs. normal 136–146 mEq/L)  
+- Potassium (K+): Above normal range (5.5 vs. normal 3.5–5.0 mEq/L)  
+- Bicarbonate (HCO3–): Below normal range (18 vs. normal 22–28 mEq/L)  
+- Creatinine: Above normal range (1.6 vs. normal 0.6–1.2 mg/dL)  
+- Glucose, Fasting: Above normal range (110 vs. normal 70–100 mg/dL)  
+- Calcium: Above normal range (11.0 vs. normal 8.4–10.2 mg/dL)  
+- Aspartate aminotransferase (AST): Above normal range (50 vs. normal 12–38 U/L)  
+- Platelet count: Below normal range (130,000 vs. normal 150,000–400,000/mm3)  
+- TSH: Above normal range (5.5 vs. normal 0.4–4.0 μU/mL)  
+- Hemoglobin A1c: Above normal range (7% vs. normal ≤6%)  

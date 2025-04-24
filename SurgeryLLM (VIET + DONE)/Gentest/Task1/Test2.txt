@@ -1,0 +1,27 @@
+Record:  
+Patient: Sarah Johnson  
+Age: 45, Female  
+Medical History: Hypertension; mild asthma  
+Vital Signs: BP 130/87 mmHg, HR 78 bpm  
+Laboratory Findings:  
+- Sodium (Na+): 150 mEq/L  
+- Potassium (K+): 5.5 mEq/L  
+- Bicarbonate (HCO3–): 30 mEq/L  
+- Creatinine: 1.5 mg/dL  
+- Glucose Fasting: 105 mg/dL  
+- Calcium: 8.0 mg/dL  
+- Alkaline phosphatase: 105 U/L  
+- Creatine kinase: 95 U/L  
+- Total Cholesterol: 250 mg/dL  
+Preoperative Workup: Comprehensive metabolic panel, lipid profile, ECG  
+
+Anomalies:  
+- Sodium (Na+) is above normal range (150 mEq/L; normal 136–146 mEq/L) indicating hypernatremia.  
+- Potassium (K+) is above normal range (5.5 mEq/L; normal 3.5–5.0 mEq/L) indicating hyperkalemia.  
+- Bicarbonate (HCO3–) is above normal range (30 mEq/L; normal 22–28 mEq/L) indicating possible metabolic alkalosis.  
+- Creatinine is above normal range (1.5 mg/dL; normal 0.6–1.2 mg/dL) suggesting potential renal impairment.  
+- Glucose Fasting is slightly above normal range (105 mg/dL; normal 70–100 mg/dL) indicating impaired fasting glucose.  
+- Calcium is below normal range (8.0 mg/dL; normal 8.4–10.2 mg/dL) suggesting possible hypocalcemia.  
+- Alkaline phosphatase is at the upper limit (105 U/L; normal 25–100 U/L), potentially indicating liver or bone issues.  
+- Creatine kinase is above normal range for females (95 U/L; normal 10–70 U/L) indicating muscle injury or stress.  
+- Total Cholesterol is above normal range (250 mg/dL; normal <200 mg/dL) indicating hypercholesterolemia.

@@ -2,58 +2,17 @@
 
 Debug: Keywords
 
-1. John Smith:
-Age: 58, Male
-Diabetes
-Multivessel coronary artery disease (LAD involvement)
-Hemoglobin: 9.0 g/dL
-
-2. Surgical Recommendation:
+John Smith, 58, male, diabetes, multivessel coronary artery disease, left anterior descending (LAD) involvement, BP 140/85 mmHg, HR 80 bpm, Hemoglobin 9.0 g/dL, coronary angiography, preoperative workup, surgical recommendation.
 
 
 Debug: Prompt
 
 
-1. Record: 
-Patient: John Smith
-Age: 58, Male
-Medical History: Diabetes; multivessel coronary artery disease with left anterior descending (LAD) involvement
-Vital Signs: BP 140/85 mmHg, HR 80 bpm
-Laboratory Findings: Hemoglobin 9.0 g/dL
-Preoperative Workup: Basic clinical assessment, coronary angiography
+---
+CABG indicates coronary artery bypass graft; GDMT, guideline-directed medical therapy; PCI, percutaneous coronary intervention; and STEMI, 
+ST-segment–elevation myocardial infarction.  
+*Normal blood pressure and heart rate left ventricular end-diastolic pressure <20 mm Hg, no chronic renal insufficiency or acute kidney injury,
 
-2. Reference: pared with angioplasty in stable coronary artery disease. Atorvastatin versus 
-Revascularization Treatment Investigators. N Engl J Med. 1999;341:70–76.
- 24. Chaitman BR, Hardison RM, Adler D, et al. The Bypass Angioplasty Revas-
-cularization Investigation 2 Diabetes randomized trial of different treatment 
-strategies in type 2 diabetes mellitus with stable ischemic heart disease: 
-impact of treatment strategy on cardiac mortality and myocardial infarction. 
-Circulation. 2009;120:2529–2540.
- 25. Kapoor JR, Gienger AL, Ardehali R, et al. Isolated disease of the proximal 
-left anterior descending artery comparing the effectiveness of percutane-
-ous coronary interventions and coronary artery bypass surgery. JACC Car-
-diovasc Interv. 2008;1:483–491.
- 26. Jones RH, Kesler K, Phillips HR 3rd, et al. Long-term survival benefits 
-of coronary artery bypass grafting and percutaneous transluminal angio-
-plasty in patients with coronary artery disease. J Thorac Cardiovasc Surg. 
-1996;111:1013–1025.
- 27 . Aziz O, Rao C, Panesar SS, et al. Meta-analysis of minimally invasive internal 
-thoracic artery bypass versus percutaneous revascularisation for isolated 
-lesions of the left anterior descending artery. BMJ. 2007;334:617 .
- 28. Hannan EL, Samadashvili Z, Cozzens K, et al. Comparative outcomes for 
-patients who do and do not undergo percutaneous coronary intervention for 
-stable coronary artery disease in New York. Circulation. 2012;125:1870–
-1879.
- 29. Smith PK, Califf RM, Tuttle RH, et al. Selection of surgical or percutane-
-ous coronary intervention provides differential longevity benefit. Ann Thorac 
-Surg. 2006;82:1420–1428. discussion 8-9.
- 30. Pijls NHJ, van Schaardenburgh P, Manoharan G, et al. Percutaneous coro-
-nary intervention of functionally nonsignificant stenosis: 5-year follow-up of 
-the DEFER study. J Am Coll Cardiol. 2007;49:2105–2111.
- 31. Hamad MAS, van Straten AHM, Schönberger JPAM, et al. Preoperative
-
-summarized in Online Data Supplement 14.
-COR LOE Recommendations
 1 A
 1. In patients with diabetes and multivessel CAD 
 with the involvement of the LAD, who are 
@@ -63,16 +22,77 @@ erence to PCI to reduce mortality and repeat
 revascularizations.1-8
 2a B-NR
 2. In patients with diabetes who have multivessel 
-CAD amenable to PCI and an indication for 
-revascularization and are poor candidates for 
-surgery, PCI can be useful to reduce long-term 
-ischemic outcomes.9,10
-2b B-R
-3. In patients with diabetes who have left main 
-stenosis and low- or intermediate-complexity 
-CAD in the rest of the coronary anatomy, PCI 
-may be considered an alternative to CABG 
-to reduce major adverse cardiovascular out-
+CAD amenable to PCI and an indication for
+
+stenosis (NOBLE): a prospective, randomised, open-label, non-inferiority 
+trial. Lancet. 2016;388:2743–2752.
+ 15. Armstrong EJ, Rutledge JC, Rogers JH. Coronary artery revascularization in 
+patients with diabetes mellitus. Circulation. 2013;128:1675–1685.
+ 16. Thuijs D, Kappetein AP, Serruys PW, et al. Percutaneous coronary interven-
+
+analysis of patients with diabetes informs this 
+recommendation.13 In the EXCEL trial, which 
+included patients with left main CAD and low- or 
+intermediate-complexity CAD, approximately 30% 
+of patients had diabetes. At 3 years, the composite 
+of death, stroke, or MI was not significantly differ-
+ent between PCI and CABG among patients with 
+diabetes. However, the all-cause mortality rate was
+
+main coronary artery disease: a pooled analysis of 5775 individual patient 
+data. Circ Cardiovasc Interv. 2012;5:467–475.
+ 9. Pandey A, McGuire DK, de Lemos JA, et al. Revascularization trends in 
+patients with diabetes mellitus and multivessel coronary artery disease 
+presenting with non-ST elevation myocardial infarction: insights from the
+
+from the EXCEL Trial. J Am Coll Cardiol. 2017;70:3113–3122.
+ 6. Brooks MM, Chung SC, Helmy T, et al. Health status after treatment for 
+coronary artery disease and type 2 diabetes mellitus in the Bypass An-
+gioplasty Revascularization Investigation 2 Diabetes trial. Circulation. 
+2010;122:1690–1699.
+ 7.  Cashin WL, Sanmarco ME, Nessim SA, et al. Accelerated progression of
+
+Diffusely diseased and narrowed segments distal to the lesion
+ Thrombotic lesion
+ Lesion length >20 mm
+CAD indicates coronary artery disease; and LAD, left anterior descending.
+Downloaded from http://ahajournals.org by on March 13, 2025
+
+able outcomes when the Heart Team was used 
+in cases of unprotected left main disease, triple-
+vessel disease, double-vessel disease involving 
+the proximal left anterior descending (LAD) artery, 
+or single-vessel disease involving the proximal 
+LAD artery in the context of diabetes, or in cases 
+in which the referring physician requested such 
+evaluation.5-7 ,10,11 Heart Team decisions are gen-
+
+primary myocardial disease
+Symptoms attributable 
+to coronary ischemia or 
+HF may be present that 
+respond to revascularization 
+and appropriate medical 
+therapy
+C Asymptomatic 
+severe MR
+Regional wall motion 
+abnormalities and/or LV dilation 
+with severe tethering of mitral 
+leaflet
+Annular dilation with severe 
+loss of central coaptation of the 
+mitral leaflets
+ERO ≥0.40 cm2†
+
+2384.
+ 2. Farkouh ME, Domanski M, Dangas GD, et al. Long-term survival follow-
+ing multivessel revascularization in patients with diabetes: the FREEDOM 
+follow-on study. J Am Coll Cardiol. 2019;73:629–638.
+ 3. Kamalesh M, Sharp TG, Tang XC, et al. Percutaneous coronary intervention 
+versus coronary bypass surgery in United States veterans with diabetes. J 
+Am Coll Cardiol. 2013;61:808–816.
+
 comes.5,11
 Synopsis
 Revascularization decisions in patients with diabetes and 
@@ -80,193 +100,85 @@ multivessel CAD are complex and are optimized via a
 Heart Team approach, with consideration of left ventricu-
 lar function, patient preferences, symptoms, clinical pre-
 sentation, comorbidities, and expected survival.1,12-14 Dia-
-betes is associated with 2- to 4-fold increased mortality 
+betes is associated with 2- to 4-fold increased mortality
+
+medical treatment in patients with stable coronary artery disease: network 
+meta-analysis. BMJ. 2014;348:g3859.
+ 38. Group BDS, Frye RL, August P, et al. A randomized trial of therapies for type 
+2 diabetes and coronary artery disease. N Engl J Med. 2009;360:2503–
+2515.
+ 39. Velazquez EJ, Lee  KL, Deja MA, et al. Coronary-artery bypass surgery in
+
+vascularization Investigation 2 Diabetes). J Am Coll Cardiol. 2013;61:1767–
+1776.
+ 6. Davis KB, Chaitman B, Ryan T, et al. Comparison of 15-year survival for men 
+and women after initial medical or surgical treatment for coronary artery 
+disease: a CASS registry study. Coronary Artery Surgery Study. J Am Coll 
+Cardiol. 1995;25:1000–1009.
+
+GDMT guideline-directed medical therapy
+iFR instantaneous wave-free ratio
+IMA internal mammary artery
+ISR in-stent restenosis
+IVUS intravascular ultrasound
+LAD left anterior descending
+LIMA left internal mammary artery
+LOE Level of Evidence
+MACE major adverse cardiovascular events
+MI myocardial infarction
+NSTE-ACS non–ST-segment–elevation acute coronary syndrome
+
+◼ post-bypass ◼ non–ST-segment–elevated myocardial infarction ◼ vein graft lesions ◼ myocardial revascularization 
+ ◼ multivessel PCI ◼ left ventricular dysfunction
+Clinical Statements and Guidelines
+Downloaded from http://ahajournals.org by on March 13, 2025
+
+versus coronary artery bypass graft for left main coronary artery disease: a 
+meta-analysis. J Thorac Cardiovasc Surg. 2020. S0022-5223(20)30888-
+6.
+ 56. Hillis LD, Smith PK , Anderson JL, et al. 2011 ACCF/AHA guideline for 
+coronary artery bypass graft surgery: a report of the American College of 
+Cardiology Foundation/American Heart Association Task Force on Practice
+
+2019;73:964–976.
+ 20. Stone GW, Kappetein AP, Sabik JF, et al. Five-year outcomes after PCI or 
+CABG for left main coronary disease. N Engl J Med. 2019;381:1820–1830.
+8.2. Patients With Diabetes
+ 1. Farkouh ME, Domanski M, Sleeper LA, et al. Strategies for multivessel re-
+vascularization in patients with diabetes. N Engl J Med. 2012;367:2375–
+2384.
+
+COMBAT Study. J Am Coll Cardiol. 2015;65:2198–2206.
+ 21. Madhavan MV, Gersh BJ, Alexander KP, et al. Coronary artery disease in 
+patients ≥80 years of age. J Am Coll Cardiol. 2018;71:2015–2040.
+9.3. Revascularization in Patients With Chronic Kidney 
+Disease (CKD)
+ 1. Mehran R, Aymong ED, Nikolsky E, et al. A simple risk score for prediction
+
+pass surgery for left main coronary artery disease. N Engl J Med. 
+2016;375:2223–2235.
+Downloaded from http://ahajournals.org by on March 13, 2025
+
 risk from heart disease, and patients with diabetes have 
 more aggressive atherosclerosis, more diffuse coronary 
 lesions, smaller coronary vessels, and more extensive 
 disease. After coronary revascularization, patients with 
 diabetes experience a higher mortality rate and greater 
-need for repeat revascularization procedures. 15 Clinical 
-trials of patients with diabetes and multivessel CAD have 
-demonstrated that PCI is associated with a higher mor-
-tality rate at 5 years than that associated with CABG. 
-The survival advantage of CABG becomes evident after 
-2 years and attenuates after 8 years, as patients treat-
-ed with CABG experience a late mortality catch-up. 2,16 
-Of note, CABG is associated with an increased risk of 
-stroke that persists up to 5 years. 17 The need for repeat 
-revascularization is higher after PCI, regardless of the
-
-sociation for Thoracic Surgery; ABC, Association of Black Cardiologists; ACC, American College of Cardiology; ACCF, American College of Cardiology Foundation; 
-ACPM, American College of Preventive Medicine; ACR, American College of Radiology; ADA, American Diabetes Association; AGS, American Geriatrics Society; 
-AHA, American Heart Association; APhA, American Pharmacists Association; ASA, American Society of Anesthesiologists; ASH, American Society of Hematology; 
-ASPC, American Society for Preventive Cardiology; ESVS, European Society for Vascular Surgery; EULAR, European League Against Rheumatism; NLA, National 
-Lipid Association; NMA, National Medical Association; PCNA, Preventive Cardiovascular Nurses Association; SCA, Society of Cardiovascular Anesthesiologists; 
-SCAI, Society for Cardiovascular Angiography and Interventions; SIR, Society of Interventional Radiology; STS, Society of Thoracic Surgeons; SVM, Society for 
-Vascular Medicine; and SVS, Society for Vascular Surgery.
-Downloaded from http://ahajournals.org by on March 14, 2025
-
-2015;116:1358–1362.
-9.6. Revascularization in Patients With SCAD
- 1. Jamil A, Tajrishi FZ, Kahe F, et al. Spontaneous coronary artery dissection 
-managed with a conservative or revascularization approach: a meta-analy-
-sis. J Cardiovasc Med. 2020;21:42–50.
-Downloaded from http://ahajournals.org by on March 13, 2025
-
-Lawton et al 2021 ACC/AHA/SCAI Coronary Revascularization Guideline
-Circulation. 2022;145:e18–e114. DOI: 10.1161/CIR.0000000000001038 January 18, 2022 e103
-CLINICAL STATEMENTS 
-AND GUIDELINES
- 18. Shroyer AL, Hattler B, Wagner TH, et al. Five-year outcomes after on-
-pump and off-pump coronary-artery bypass. N Engl J Med. 2017;377:  
-623–632.
- 19. Takagi H, Matsui M, Umemoto T. Off-pump coronary artery bypass may in-
-crease late mortality: a meta-analysis of randomized trials. Ann Thorac Surg. 
-2010;89:1881–1888.
- 20. Møller CH, Penninga L, Wetterslev J, et al. Off-pump versus on-pump coro-
-nary artery bypass grafting for ischaemic heart disease. Cochrane Database 
-Syst Rev. 2012;3:CD007224.
- 21. Kuss O, von Salviati B, Börgermann J. Off-pump versus on-pump coronary 
-artery bypass grafting: a systematic review and meta-analysis of propensity 
-score analyses. J Thorac Cardiovasc Surg. 2010;140:829–835, 35.e1-13.
- 22. D’Agostino RS, Jacobs J P, Badhwar V, et al. The Society of Thoracic Sur-
-geons Adult Cardiac Surgery Database: 2019 update on outcomes and 
-quality. Ann Thorac Surg. 2019;107:24–32.
- 23. Diegeler A, Borgermann J, Kappert U, et al. Off-pump versus on-
-pump coronary-artery bypass grafting in elderly patients. N Engl J Med. 
-2013;368:1189–1198.
-13.1. Insulin Infusion and Other Measures to Reduce 
-Sternal Wound Infection in Patients Undergoing CABG
- 1. Furnary AP, Zerr KJ, Grunkemeier GL, et al. Continuous intravenous insulin 
-infusion reduces the incidence of deep sternal wound infection in diabetic 
-patients after cardiac surgical procedures. Ann Thorac Surg. 1999;67:352–
-360; discussion 60-2.
- 2. Hruska LA, Smith JM, Hendy MP, et al. Continuous insulin infusion reduces 
-infectious complications in diabetics following coronary surgery. J Card 
-Surg. 2005;20:403–407 .
- 3. Lazar HL, Chipkin SR, Fitzgerald CA, et al. Tight glycemic control in diabetic 
-coronary artery bypass graft patients improves perioperative outcomes and
-
-Lawton et al 2021 ACC/AHA/SCAI Coronary Revascularization Guideline
-January 18, 2022 Circulation. 2022;145:e18–e114. DOI: 10.1161/CIR.0000000000001038e82
-CLINICAL STATEMENTS 
-AND GUIDELINES
- 24. van Diepen S, Katz JN, Albert NM, et al. Contemporary management of car-
-diogenic shock: a scientific statement from the American Heart Association. 
-Circulation. 2017;136:e232–e268.
- 25. Kulik A, Ruel M, Jneid H, et al. Secondary prevention after coronary artery 
-bypass graft surgery: a scientific statement from the American Heart As-
-sociation. Circulation. 2015;131:927–964.
- 26. American Diabetes Association. 8. Pharmacologic approaches to glycemic 
-treatment: standards of medical care in diabetes—2018. Diabetes Care. 
-2018;41:S73–S85.
-1.5. Class of Recommendation and Level of Evidence
- 1. ACCF/AHA Task Force on Practice Guidelines. Methodology Manual and 
-Policies From the ACCF/AHA Task Force on Practice Guidelines. American 
-College of Cardiology and American Heart Association. 2010. Accessed 
-April 12, 2021. Available at: https://www.acc.org/Guidelines/About-Guide-
-lines-and-Clinical-Documents/Methodology and https://professional.heart.
-org/-/media/phd-files/guidelines-and-statements/methodology_manual_
-and_policies_ucm_319826.pdf
-2.1. Improving Equity of Care in Revascularization
- 1. O’Donoghue M, Boden WE, Braunwald E, et al. Early invasive vs conser-
-vative treatment strategies in women and men with unstable angina and 
-non-ST-segment elevation myocardial infarction: a meta-analysis. JAMA. 
-2008;300:71–80.
- 2. Lee LC, Poh KK, Tang TPL, et al. The impact of gender on the outcomes of 
-invasive versus conservative management of patients with non-ST-segment 
-elevation myocardial infarction. Ann Acad Med Singap. 2010;39:168–172.
- 3. Tamis-Holland JE, Palazzo A, Stebbins AL, et al. Benefits of direct angio-
-plasty for women and men with acute myocardial infarction: results of the 
-Global Use of Strategies to Open Occluded Arteries in Acute Coronary
-
-left main coronary artery disease in patients with diabetes. J Am Coll Cardiol. 
-2019;73:1616–1628.
- 12. Mohr FW, Morice MC, Kappetein AP, et al. Coronary artery bypass graft 
-surgery versus percutaneous coronary intervention in patients with three-
-vessel disease and left main coronary disease: 5-year follow-up of the ran-
-domised, clinical SYNTAX trial. Lancet. 2013;381:629–638.
- 13. Stone GW, Sabik J F, Serruys PW, et al. Everolimus-eluting stents or by-
-pass surgery for left main coronary artery disease. N Engl J Med. 
-2016;375:2223–2235.
-Downloaded from http://ahajournals.org by on March 13, 2025
-
-Circulation
-e18 January 18, 2022 Circulation. 2022;145:e18–e114. DOI: 10.1161/CIR.0000000000001038
-Circulation is available at www.ahajournals.org/journal/circ
-*Writing committee members are required to recuse themselves from voting on sections to which their specific relationships with industry may apply; see Appendix 1 
-for detailed information. †ACC/AHA Representative. ‡ACC/AHA Joint Committee on Clinical Practice Guidelines Liaison. §ACC/AHA Task Force on Data Standards 
-Representative. ‖SCAI Representative.
-ACC/AHA Joint Committee on Clinical Practice Guidelines Members, see page e80.
-The American Heart Association requests that this document be cited as follows: Lawton JS, Tamis-Holland JE, Bangalore S, Bates ER, Beckie TM, Bischoff JM, Bittl 
-JA, Cohen MG, DiMaio JM, Don CW, Fremes SE, Gaudino MF, Goldberger ZD, Grant MC, Jaswal JB, Kurlansky PA, Mehran R, Metkus TS Jr, Nnacheta LC, Rao SV, 
-Sabik JF, Sellke FW, Sharma G, Yong CM, Zwischenberger BA. 2021 ACC/AHA/SCAI guideline for coronary artery revascularization: a report of the American College 
-of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2022;145:e18–e114. doi: 10.1161/CIR.0000000000001038
-© 2021 by the American College of Cardiology Foundation and the American Heart Association, Inc. 
-ACC/AHA/SCAI CLINICAL PRACTICE GUIDELINE
-2021 ACC/AHA/SCAI Guideline for Coronary 
-Artery Revascularization: A Report of the 
-American College of Cardiology/American Heart 
-Association Joint Committee on Clinical Practice 
-Guidelines
-Writing Committee Members*
-Jennifer S. Lawton, MD, FAHA, Chair†; Jacqueline E. Tamis-Holland, MD, FAHA, FACC, FSCAI, Vice Chair‡;  
-Sripal Bangalore, MD, MHA, FACC, FAHA, FSCAI†; Eric R. Bates, MD, FACC, FAHA†; Theresa M. Beckie, PhD, FAHA†;  
-James M. Bischoff, MEd†; John A. Bittl, MD, FACC†; Mauricio G. Cohen, MD, FACC, FSCAI§; J. Michael DiMaio, MD†;
-
-bleeding or increased stroke risk in patients under-
-going rescue PCI could be mitigated by using half-
-dose tenecteplase in patients >75 years of age, 31 
-by substituting radial access in place of femoral 
-access,41 or by eliminating the routine use of plate-
-let glycoprotein IIb/IIIa inhibitors. With these tech-
-niques, the reduced complications associated with 
-PCI would provide a more favorable balance of risk 
-Figure 3. Indications for Revascularization in STEMI (Patients Without Fibrinolytics).
-Colors correspond to Table 2.  
-CABG indicates coronary artery bypass graft; PCI, percutaneous coronary intervention; and STEMI, ST-segment–elevation myocardial infarction. 
-This algorithm summarizes the recommendations in this guideline for revascularization of the infarct artery in STEMI. It is not meant to encompass 
-every patient scenario or situation, and clinicians are encouraged to use a Heart Team approach when care decisions are unclear and to see the 
-accompanying supportive text for each recommendation. Additionally, in situations that lack sufficient data to make formal recommendations for 
-care, please see Section 17 , “Unanswered Questions and Future Directions.”
-Downloaded from http://ahajournals.org by on March 13, 2025
-
-Lawton et al 2021 ACC/AHA/SCAI Coronary Revascularization Guideline
-Circulation. 2022;145:e18–e114. DOI: 10.1161/CIR.0000000000001038 January 18, 2022 e91
-CLINICAL STATEMENTS 
-AND GUIDELINES
- 14. Makikallio T, Holm NR, Lindsay M, et al. Percutaneous coronary angioplasty 
-versus coronary artery bypass grafting in treatment of unprotected left main 
-stenosis (NOBLE): a prospective, randomised, open-label, non-inferiority 
-trial. Lancet. 2016;388:2743–2752.
- 15. Armstrong EJ, Rutledge JC, Rogers JH. Coronary artery revascularization in 
-patients with diabetes mellitus. Circulation. 2013;128:1675–1685.
- 16. Thuijs D, Kappetein AP, Serruys PW, et al. Percutaneous coronary interven-
-tion versus coronary artery bypass grafting in patients with three-vessel or 
-left main coronary artery disease: 10-year follow-up of the multicentre ran-
-domised controlled SYNTAX trial. Lancet. 2019;394:1325–1334.
- 17 . Head SJ, Milojevic M, Daemen J, et al. Stroke rates following surgical versus per-
-cutaneous coronary revascularization. J Am Coll Cardiol. 2018;72:386–398.
-8.3. Patients With Previous CABG
- 1. Yap C-H, Sposato L, Akowuah E, et al. Contemporary results show repeat 
-coronary artery bypass grafting remains a risk factor for operative mortality. 
-Ann Thorac Surg. 2009;87:1386–1391.
- 2. Morrison DA, Sethi G, Sacks J, et al. Percutaneous coronary intervention 
-versus repeat bypass surgery for patients with medically refractory myo-
-cardial ischemia: AWESOME randomized trial and registry experience with 
-post-CABG patients. J Am Coll Cardiol. 2002;40:1951–1954.
- 3. Brener SJ, Lytle BW, Casserly IP, et al. Predictors of revascularization meth-
-od and long-term outcome of percutaneous coronary intervention or repeat 
-coronary bypass surgery in patients with multivessel coronary disease and 
-previous coronary bypass surgery. Eur Heart J. 2006;27:413–418.
- 4. Sabik J F, Raza S, Blackstone EH, et al. Value of internal thoracic artery
-3. Task: Surgical recommendation.
-4. Answer:
+need for repeat revascularization procedures. 15 Clinical
+---
+A. Record: 
+Patient: John Smith
+Age: 58, Male
+Medical History: Diabetes; multivessel coronary artery disease with left anterior descending (LAD) involvement
+Vital Signs: BP 140/85 mmHg, HR 80 bpm
+Laboratory Findings: Hemoglobin 9.0 g/dL
+Preoperative Workup: Basic clinical assessment, coronary angiography
+ 
+B. Task: Surgical recommendation.
+C. Answer:
 
 
 
 Debug: Response
 
-Based on the patient's record and the reference, the surgical recommendation for John Smith, a 58-year-old male with diabetes and multivessel coronary artery disease with left anterior descending (LAD) involvement, is:
-
-Coronary Artery Bypass Graft (CABG) with a Left Internal Mammary Artery (LIMA) to the LAD is recommended in preference to Percutaneous Coronary Intervention (PCI) to reduce mortality and repeat revascularizations.
+Given the patient's profile and the context provided, a coronary artery bypass graft (CABG) with a left internal mammary artery (LIMA) to the left anterior descending (LAD) artery is recommended. This approach is preferred over percutaneous coronary intervention (PCI) in patients like John Smith, who have diabetes and multivessel coronary artery disease with LAD involvement, to reduce mortality and the need for repeat revascularizations.

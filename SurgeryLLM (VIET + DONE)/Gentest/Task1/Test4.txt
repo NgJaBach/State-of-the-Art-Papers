@@ -1,0 +1,29 @@
+**Record:**
+
+Patient: Alice Johnson  
+Age: 46, Female  
+Medical History: Hypertension; Hyperlipidemia  
+Vital Signs: BP 150/95 mmHg, HR 75 bpm  
+Laboratory Findings:  
+- Sodium: 148 mEq/L  
+- Potassium: 3.0 mEq/L  
+- Bicarbonate: 30 mEq/L  
+- Creatinine: 1.8 mg/dL  
+- Glucose (Fasting): 110 mg/dL  
+- LDL Cholesterol: 165 mg/dL  
+- Platelet count: 410,000/mm3  
+- Hemoglobin A1c: 7%  
+- TSH: 5.5 μU/mL  
+
+Preoperative Workup: Comprehensive metabolic panel, lipid profile  
+
+**Anomalies:**  
+- Sodium is elevated, above the normal range of 136–146 mEq/L (hypernatremia).  
+- Potassium is decreased, below the normal range of 3.5–5.0 mEq/L (hypokalemia).  
+- Bicarbonate is elevated, above the normal range of 22–28 mEq/L.  
+- Creatinine is elevated, above the normal range of 0.6–1.2 mg/dL, indicating possible kidney function impairment.  
+- Fasting glucose is slightly elevated, above the normal range of 70–100 mg/dL.  
+- LDL Cholesterol is elevated, above the normal upper limit of <160 mg/dL.  
+- Platelet count is slightly elevated, above the normal range of 150,000–400,000/mm3 (thrombocytosis).  
+- Hemoglobin A1c is elevated, indicating poorly controlled blood sugar levels over time, above normal range of ≤6%.  
+- TSH is elevated, above the normal range of 0.4–4.0 μU/mL, which may suggest hypothyroidism.

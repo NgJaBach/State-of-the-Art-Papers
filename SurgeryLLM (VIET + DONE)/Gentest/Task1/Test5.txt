@@ -1,0 +1,19 @@
+Record:  
+Patient: Emily Doe  
+Age: 45, Female  
+Medical History: Hypertension, Chronic kidney disease stage 2  
+Vital Signs: BP 150/95 mmHg, HR 72 bpm  
+Laboratory Findings:  
+- Sodium (Na+): 150 mEq/L  
+- Potassium (K+): 5.8 mEq/L  
+- Bicarbonate (HCO3–): 18 mEq/L  
+- Hemoglobin: 10.5 g/dL  
+- Creatinine: 2.0 mg/dL  
+Preoperative Workup: Renal function tests, Electrocardiogram  
+
+Anomalies:  
+- Sodium (Na+) is elevated, indicating possible hypernatremia.  
+- Potassium (K+) is elevated, suggesting hyperkalemia.  
+- Bicarbonate (HCO3–) is low, indicative of metabolic acidosis.  
+- Hemoglobin is low, pointing towards anemia.  
+- Creatinine is elevated, consistent with impaired kidney function (CKD progression).

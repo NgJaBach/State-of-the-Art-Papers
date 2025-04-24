@@ -1,0 +1,31 @@
+Record:
+Patient: Jane Doe  
+Age: 65, Female  
+Medical History: Hypertension, Osteoporosis  
+Vital Signs: BP 160/95 mmHg, HR 75 bpm  
+Laboratory Findings:  
+- Sodium (Na+): 150 mEq/L  
+- Potassium (K+): 3.0 mEq/L  
+- Calcium: 11.0 mg/dL  
+- Creatinine: 1.6 mg/dL  
+- Glucose, Fasting: 120 mg/dL  
+- Hemoglobin: 11.0 g/dL  
+- Total Cholesterol: 250 mg/dL  
+- LDL: 180 mg/dL  
+- Alkaline Phosphatase: 150 U/L  
+- TSH: 5.5 μU/mL  
+- Hemoglobin A1c: 7.0%  
+Preoperative Workup: Complete metabolic panel, DEXA scan  
+
+Anomalies:
+- Sodium (Na+): Elevated (150 mEq/L, normal is 136-146 mEq/L)  
+- Potassium (K+): Low (3.0 mEq/L, normal is 3.5-5.0 mEq/L)  
+- Calcium: Elevated (11.0 mg/dL, normal is 8.4-10.2 mg/dL)  
+- Creatinine: Elevated (1.6 mg/dL, normal is 0.6-1.2 mg/dL)  
+- Glucose, Fasting: Elevated (120 mg/dL, normal is 70-100 mg/dL)  
+- Hemoglobin: Low (11.0 g/dL, normal is 12.0-16.0 g/dL for females)  
+- Total Cholesterol: Elevated (250 mg/dL, normal is <200 mg/dL)  
+- LDL: Elevated (180 mg/dL, normal is <160 mg/dL)  
+- Alkaline Phosphatase: Elevated (150 U/L, normal is 25-100 U/L)  
+- TSH: Elevated (5.5 μU/mL, normal is 0.4-4.0 μU/mL)  
+- Hemoglobin A1c: Elevated (7.0%, normal is ≤6%)
